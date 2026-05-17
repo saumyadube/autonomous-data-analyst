@@ -1,0 +1,501 @@
+order_id,customer_id,order_date,product_category,product_name,quantity,unit_price,discount_pct,shipping_cost,total_amount,payment_method,shipping_city,order_status,customer_rating,return_flag,days_to_deliver,customer_age_group,is_repeat_customer,platform,seller_id,region
+ORD000000,CUST04472,2023-01-01,Sports,Watch,7,1977.87,15,1.39,2743.99,COD,Bhopal,Delivered,5.0,0,11.0,55+,0,Mobile App,SELL0077,West
+ORD000001,CUST00223,2023-01-01,Beauty,Printer,6,970.29,5,8.95,4368.76,UPI,Bhopal,Delivered,1.0,0,12.0,55+,0,In-Store Kiosk,SELL0199,East
+ORD000002,CUST03534,2023-01-02,Beauty,Cable,4,969.91,0,18.47,1946.44,Debit Card,Kanpur,Delivered,1.0,0,7.0,46-55,0,Mobile App,SELL0133,West
+ORD000003,CUST01458,2023-01-03,Beauty,Cable,1,1704.02,5,10.64,3798.07,UPI,Bhopal,Delivered,3.0,0,9.0,55+,0,Mobile App,SELL0110,Central
+ORD000004,CUST01235,2023-01-03,Electronics,Printer,9,1350.21,10,6.82,3050.09,COD,Bangalore,Delivered,1.0,0,11.0,46-55,0,Website,SELL0016,North
+ORD000005,CUST02213,2023-01-04,Home & Garden,Charger,7,292.7,0,8.13,392.2,Credit Card,Hyderabad,Delivered,4.0,1,9.0,18-25,0,Mobile App,SELL0028,East
+ORD000006,CUST02392,2023-01-05,Clothing,Phone,5,619.41,15,31.32,2513.02,UPI,Surat,Processing,3.0,0,,55+,0,In-Store Kiosk,SELL0133,North
+ORD000007,CUST02183,2023-01-05,Electronics,Headphones,6,1171.49,5,6.42,3819.64,UPI,Kolkata,Cancelled,,1,12.0,46-55,0,Mobile App,SELL0186,North
+ORD000008,CUST04193,2023-01-06,Beauty,Gaming Console,7,36.94,10,39.17,3363.13,Debit Card,Ahmedabad,Returned,4.0,1,6.0,55+,1,Mobile App,SELL0171,North
+ORD000009,CUST03412,2023-01-07,Food,Cable,1,1023.24,0,42.09,2819.73,Net Banking,Lucknow,Delivered,4.0,0,10.0,18-25,0,Mobile App,SELL0171,South
+ORD000010,CUST01893,2023-01-07,Food,Gaming Console,2,471.71,5,36.17,3964.92,Debit Card,Indore,Delivered,1.0,0,9.0,26-35,0,Website,SELL0030,North
+ORD000011,CUST00969,2023-01-08,Toys,Phone,10,477.41,0,12.26,4516.43,Debit Card,Bangalore,Delivered,5.0,0,12.0,18-25,1,Mobile App,SELL0090,West
+ORD000012,CUST00493,2023-01-09,Books,Headphones,1,1791.2,5,28.82,721.38,Credit Card,Bhopal,Returned,,0,12.0,46-55,0,Mobile App,SELL0124,South
+ORD000013,CUST03539,2023-01-09,Clothing,Cable,2,567.96,10,3.05,1280.47,COD,Indore,Delivered,3.0,1,4.0,46-55,1,Mobile App,SELL0124,South
+ORD000014,CUST03927,2023-01-10,Home & Garden,Laptop,10,1796.99,0,47.13,4944.18,UPI,Bhopal,Delivered,1.0,0,13.0,36-45,0,Website,SELL0098,Central
+ORD000015,CUST03490,2023-01-11,Home & Garden,Phone,8,1069.77,0,0.37,1212.03,COD,Mumbai,Cancelled,,1,9.0,18-25,0,In-Store Kiosk,SELL0188,West
+ORD000016,CUST03693,2023-01-11,Toys,Watch,7,1856.09,0,11.08,4137.5,Credit Card,Hyderabad,Delivered,4.0,0,4.0,18-25,1,Mobile App,SELL0045,West
+ORD000017,CUST03189,2023-01-12,Books,Cable,10,1459.8,0,4.15,2662.9,Debit Card,Jaipur,Delivered,1.0,0,,55+,0,Mobile App,SELL0168,West
+ORD000018,CUST03052,2023-01-13,Books,Gaming Console,7,830.97,0,49.74,1927.56,Net Banking,Surat,Delivered,5.0,0,14.0,26-35,0,Website,SELL0089,South
+ORD000019,CUST04826,2023-01-13,Food,Gaming Console,1,75.2,20,2.04,3638.05,Wallet,Bhopal,Shipped,,1,9.0,55+,0,Mobile App,SELL0129,West
+ORD000020,CUST02690,2023-01-14,Food,Monitor,1,1783.83,0,0.09,3767.82,Debit Card,Indore,Delivered,1.0,1,3.0,36-45,0,Website,SELL0085,North
+ORD000021,CUST04517,2023-01-15,Beauty,Router,9,1416.14,10,5.03,1364.23,Debit Card,Nagpur,Delivered,4.0,0,7.0,18-25,0,Website,SELL0072,East
+ORD000022,CUST03761,2023-01-15,Clothing,Watch,5,273.85,5,44.06,60.1,Debit Card,Bangalore,Delivered,5.0,0,3.0,36-45,0,Mobile App,SELL0115,Central
+ORD000023,CUST02210,2023-01-16,Sports,Cable,4,1870.63,0,20.04,3892.97,Credit Card,Lucknow,Processing,5.0,1,,55+,0,Mobile App,SELL0108,South
+ORD000024,CUST01767,2023-01-17,Books,Smart TV,3,979.79,0,47.24,3448.88,UPI,Mumbai,Cancelled,5.0,0,10.0,36-45,0,Mobile App,SELL0150,West
+ORD000025,CUST00831,2023-01-17,Clothing,Charger,8,63.95,0,47.97,606.21,COD,Delhi,Delivered,5.0,1,2.0,55+,0,Website,SELL0015,North
+ORD000026,CUST01649,2023-01-18,Electronics,Tablet,9,595.27,0,36.31,189.24,UPI,Kolkata,Delivered,1.0,1,13.0,46-55,0,Mobile App,SELL0020,East
+ORD000027,CUST02617,2023-01-19,Books,Camera,7,1720.31,0,8.44,3304.71,COD,Lucknow,Delivered,1.0,1,,55+,0,In-Store Kiosk,SELL0077,North
+ORD000028,CUST03138,2023-01-19,Electronics,Smart TV,5,841.13,15,48.55,3007.91,Debit Card,Nagpur,Delivered,2.0,1,3.0,55+,1,Mobile App,SELL0041,Central
+ORD000029,CUST04222,2023-01-20,Electronics,Printer,6,1616.53,0,21.91,3816.91,Net Banking,Bhopal,Cancelled,,1,5.0,46-55,0,Website,SELL0144,East
+ORD000030,CUST00833,2023-01-21,Books,Printer,4,808.53,10,23.23,4366.7,Wallet,Pune,Delivered,5.0,1,5.0,26-35,1,Website,SELL0129,Central
+ORD000031,CUST00809,2023-01-21,Home & Garden,Laptop,4,272.23,0,31.84,3321.8,Credit Card,Delhi,Delivered,1.0,1,1.0,46-55,1,Website,SELL0029,Central
+ORD000032,CUST03167,2023-01-22,Beauty,Keyboard,2,393.27,20,35.81,3179.92,Credit Card,Chennai,Shipped,5.0,1,2.0,26-35,0,Mobile App,SELL0025,North
+ORD000033,CUST00080,2023-01-23,Toys,Speaker,5,1763.01,0,48.12,2605.64,Credit Card,Lucknow,Returned,2.0,0,11.0,46-55,0,Mobile App,SELL0169,East
+ORD000034,CUST04336,2023-01-23,Clothing,Printer,4,366.57,0,48.55,2833.49,Wallet,Indore,Delivered,3.0,0,7.0,46-55,0,Mobile App,SELL0132,West
+ORD000035,CUST01080,2023-01-24,Toys,Phone,3,1871.21,0,20.68,4870.22,Net Banking,Delhi,Delivered,,0,4.0,46-55,1,Website,SELL0179,East
+ORD000036,CUST02576,2023-01-25,Food,Router,4,580.64,30,7.11,237.58,Wallet,Mumbai,Returned,1.0,0,8.0,26-35,0,Website,SELL0132,West
+ORD000037,CUST00385,2023-01-25,Toys,Charger,8,1943.42,10,45.78,2720.45,UPI,Ahmedabad,Delivered,2.0,0,4.0,26-35,1,Website,SELL0081,East
+ORD000038,CUST00415,2023-01-26,Books,Mouse,8,198.18,0,5.95,1241.36,Wallet,Nagpur,Shipped,2.0,1,9.0,55+,0,In-Store Kiosk,SELL0068,Central
+ORD000039,CUST04474,2023-01-27,Books,Projector,9,1099.05,0,27.63,3628.29,UPI,Chennai,Delivered,2.0,0,3.0,26-35,0,Mobile App,SELL0167,West
+ORD000040,CUST03315,2023-01-27,Sports,Printer,9,75.99,15,8.31,3744.55,Wallet,Bhopal,Delivered,2.0,1,3.0,46-55,1,Mobile App,SELL0198,East
+ORD000041,CUST04710,2023-01-28,Toys,Router,10,516.9,20,17.91,1330.29,Net Banking,Kanpur,Delivered,,1,12.0,55+,1,Mobile App,SELL0087,Central
+ORD000042,CUST04347,2023-01-29,Beauty,Speaker,4,1711.44,0,26.49,3793.17,COD,Ahmedabad,Delivered,4.0,1,4.0,26-35,1,Mobile App,SELL0095,West
+ORD000043,CUST04938,2023-01-29,Home & Garden,Gaming Console,9,378.08,0,35.25,3221.65,COD,Surat,Delivered,1.0,1,5.0,26-35,0,Mobile App,SELL0080,South
+ORD000044,CUST00985,2023-01-30,Clothing,Projector,5,1783.59,0,48.76,4733.36,Debit Card,Chennai,Delivered,4.0,0,11.0,18-25,0,Mobile App,SELL0193,South
+ORD000045,CUST03666,2023-01-31,Beauty,Watch,9,1181.67,0,45.93,4078.8,COD,Surat,Delivered,1.0,0,,18-25,0,In-Store Kiosk,SELL0025,North
+ORD000046,CUST03061,2023-01-31,Beauty,Printer,10,1454.53,0,26.02,3860.71,Debit Card,Pune,Delivered,4.0,1,2.0,46-55,0,Mobile App,SELL0036,East
+ORD000047,CUST01062,2023-02-01,Sports,Mouse,8,722.03,5,15.62,706.66,Net Banking,Nagpur,Shipped,1.0,0,11.0,18-25,1,In-Store Kiosk,SELL0165,East
+ORD000048,CUST00986,2023-02-02,Electronics,Smart TV,4,1969.87,0,26.85,4933.81,Net Banking,Hyderabad,Delivered,5.0,1,1.0,26-35,0,Mobile App,SELL0188,East
+ORD000049,CUST01949,2023-02-02,Home & Garden,Keyboard,4,1654.02,15,18.33,3982.23,Credit Card,Jaipur,Shipped,2.0,1,7.0,18-25,1,Mobile App,SELL0056,West
+ORD000050,CUST04099,2023-02-03,Toys,Printer,7,1823.93,5,22.97,4213.71,Net Banking,Bangalore,Delivered,1.0,0,6.0,18-25,0,Website,SELL0116,South
+ORD000051,CUST02333,2023-02-04,Food,Camera,10,295.94,5,45.72,3759.57,Debit Card,Lucknow,Shipped,1.0,1,10.0,55+,1,Mobile App,SELL0058,South
+ORD000052,CUST01265,2023-02-04,Home & Garden,Smart TV,2,537.28,30,25.71,4273.73,COD,Jaipur,Delivered,2.0,0,9.0,26-35,1,Mobile App,SELL0198,West
+ORD000053,CUST02916,2023-02-05,Toys,Tablet,3,1682.78,0,2.08,3046.1,UPI,Hyderabad,Delivered,5.0,0,9.0,36-45,1,Website,SELL0014,West
+ORD000054,CUST03148,2023-02-06,Electronics,Headphones,5,1340.68,0,34.2,70.55,Credit Card,Bangalore,Delivered,2.0,0,13.0,46-55,1,Website,SELL0120,East
+ORD000055,CUST03091,2023-02-06,Electronics,Gaming Console,9,772.77,5,14.05,2319.89,Wallet,Kanpur,Shipped,3.0,0,9.0,55+,0,Website,SELL0119,West
+ORD000056,CUST02947,2023-02-07,Beauty,Camera,3,931.41,5,10.69,1245.5,Debit Card,Kanpur,Delivered,,0,1.0,46-55,0,Mobile App,SELL0187,Central
+ORD000057,CUST01909,2023-02-08,Food,Speaker,5,879.88,5,38.33,1559.67,Net Banking,Ahmedabad,Shipped,2.0,0,1.0,36-45,1,Website,SELL0114,East
+ORD000058,CUST01874,2023-02-08,Electronics,Monitor,3,1117.91,5,8.28,1381.43,COD,Jaipur,Delivered,4.0,0,5.0,18-25,0,Website,SELL0070,West
+ORD000059,CUST01900,2023-02-09,Clothing,Printer,8,980.62,0,30.46,3158.2,COD,Lucknow,Returned,3.0,0,1.0,36-45,0,Mobile App,SELL0099,South
+ORD000060,CUST04503,2023-02-10,Food,Camera,3,912.17,5,40.86,3940.87,Net Banking,Delhi,Delivered,5.0,0,12.0,46-55,1,Website,SELL0127,East
+ORD000061,CUST02160,2023-02-10,Food,Watch,1,658.73,20,15.03,4348.04,Net Banking,Chennai,Delivered,4.0,1,11.0,18-25,0,Mobile App,SELL0170,South
+ORD000062,CUST04507,2023-02-11,Home & Garden,Smart TV,5,900.49,0,23.61,4370.85,UPI,Lucknow,Delivered,2.0,1,10.0,46-55,1,Mobile App,SELL0007,West
+ORD000063,CUST01583,2023-02-12,Electronics,Smart TV,1,359.06,5,28.88,105.93,Debit Card,Lucknow,Delivered,3.0,0,10.0,18-25,0,Website,SELL0144,South
+ORD000064,CUST01701,2023-02-12,Home & Garden,Headphones,3,385.78,20,32.06,3772.17,Credit Card,Hyderabad,Delivered,5.0,0,9.0,55+,0,Mobile App,SELL0117,Central
+ORD000065,CUST01751,2023-02-13,Beauty,Speaker,10,1378.14,0,48.6,4650.36,Wallet,Ahmedabad,Shipped,2.0,1,5.0,55+,1,Mobile App,SELL0040,Central
+ORD000066,CUST01741,2023-02-14,Books,Monitor,9,1929.32,0,44.44,3869.45,Wallet,Bangalore,Shipped,3.0,1,1.0,18-25,1,Mobile App,SELL0075,South
+ORD000067,CUST01628,2023-02-14,Books,Speaker,7,428.72,5,10.45,586.86,Debit Card,Surat,Delivered,5.0,0,2.0,55+,0,In-Store Kiosk,SELL0111,North
+ORD000068,CUST03275,2023-02-15,Home & Garden,Speaker,5,1826.32,5,27.29,4787.31,COD,Kolkata,Delivered,1.0,0,7.0,26-35,1,Mobile App,SELL0165,West
+ORD000069,CUST04815,2023-02-16,Home & Garden,Laptop,9,1253.01,20,7.89,2513.11,COD,Kanpur,Delivered,5.0,1,4.0,18-25,0,In-Store Kiosk,SELL0169,Central
+ORD000070,CUST01420,2023-02-16,Toys,Projector,1,1905.88,20,3.0,2872.99,Credit Card,Chennai,Delivered,5.0,1,14.0,55+,0,Website,SELL0100,Central
+ORD000071,CUST01526,2023-02-17,Home & Garden,Camera,5,793.53,15,18.41,1418.35,Debit Card,Mumbai,Shipped,3.0,0,12.0,26-35,0,Mobile App,SELL0140,South
+ORD000072,CUST01520,2023-02-18,Sports,Camera,5,1382.17,0,15.99,4233.97,COD,Jaipur,Delivered,2.0,0,10.0,36-45,1,Mobile App,SELL0105,North
+ORD000073,CUST01211,2023-02-18,Home & Garden,Printer,1,1090.0,0,28.52,4385.9,Wallet,Bangalore,Processing,1.0,1,6.0,55+,1,Website,SELL0137,North
+ORD000074,CUST00103,2023-02-19,Beauty,Gaming Console,1,1955.1,5,32.06,4080.43,Credit Card,Kolkata,Delivered,4.0,0,12.0,55+,1,In-Store Kiosk,SELL0197,East
+ORD000075,CUST00021,2023-02-20,Beauty,Smart TV,5,125.69,0,19.28,1039.53,Wallet,Ahmedabad,Delivered,2.0,0,,36-45,0,Mobile App,SELL0018,South
+ORD000076,CUST00470,2023-02-20,Electronics,Camera,2,122.2,30,43.36,640.31,UPI,Mumbai,Delivered,3.0,1,8.0,46-55,0,Mobile App,SELL0179,North
+ORD000077,CUST00745,2023-02-21,Electronics,Router,10,1728.96,0,42.09,4882.27,Wallet,Chennai,Delivered,1.0,1,10.0,26-35,1,Mobile App,SELL0037,North
+ORD000078,CUST03291,2023-02-22,Toys,Tablet,2,111.73,5,36.06,4362.27,UPI,Nagpur,Delivered,3.0,0,6.0,18-25,1,Mobile App,SELL0187,South
+ORD000079,CUST00647,2023-02-22,Electronics,Keyboard,1,1815.2,0,17.54,4283.08,Debit Card,Chennai,Delivered,1.0,1,8.0,46-55,0,Mobile App,SELL0083,North
+ORD000080,CUST01605,2023-02-23,Sports,Camera,8,192.57,15,12.11,3900.56,UPI,Kolkata,Delivered,3.0,0,5.0,36-45,0,Mobile App,SELL0034,Central
+ORD000081,CUST02324,2023-02-24,Toys,Headphones,5,229.3,10,5.8,537.09,Net Banking,Pune,Cancelled,5.0,0,3.0,55+,1,Mobile App,SELL0010,Central
+ORD000082,CUST00407,2023-02-24,Sports,Projector,5,664.87,0,12.52,2575.98,UPI,Kolkata,Processing,5.0,0,12.0,26-35,0,Website,SELL0177,North
+ORD000083,CUST02382,2023-02-25,Electronics,Smart TV,3,1454.91,10,47.96,581.5,Debit Card,Kanpur,Delivered,5.0,1,14.0,26-35,0,Mobile App,SELL0146,East
+ORD000084,CUST04652,2023-02-26,Books,Tablet,1,1156.06,5,20.88,2115.98,UPI,Pune,Delivered,3.0,1,7.0,46-55,1,Mobile App,SELL0086,North
+ORD000085,CUST00035,2023-02-26,Clothing,Keyboard,8,1818.37,10,20.79,812.06,Debit Card,Chennai,Shipped,4.0,0,1.0,36-45,1,Mobile App,SELL0187,North
+ORD000086,CUST01479,2023-02-27,Electronics,Laptop,6,1261.13,0,23.53,2399.98,COD,Bhopal,Delivered,1.0,1,5.0,18-25,0,Mobile App,SELL0171,South
+ORD000087,CUST00446,2023-02-28,Books,Projector,4,1193.42,5,32.4,3359.84,Debit Card,Mumbai,Delivered,4.0,0,13.0,46-55,1,Mobile App,SELL0036,Central
+ORD000088,CUST01046,2023-02-28,Books,Camera,3,1142.89,5,46.0,4205.92,Debit Card,Lucknow,Shipped,5.0,0,10.0,55+,0,Website,SELL0102,West
+ORD000089,CUST04209,2023-03-01,Beauty,Charger,2,815.08,0,5.71,407.69,COD,Ahmedabad,Shipped,1.0,0,,46-55,1,Website,SELL0129,West
+ORD000090,CUST02612,2023-03-02,Toys,Mouse,8,1280.17,10,41.01,4460.93,Net Banking,Delhi,Delivered,2.0,1,14.0,46-55,1,Mobile App,SELL0134,North
+ORD000091,CUST01726,2023-03-02,Sports,Headphones,1,1946.23,25,22.45,952.43,COD,Chennai,Shipped,5.0,1,2.0,18-25,1,Website,SELL0101,South
+ORD000092,CUST04154,2023-03-03,Sports,Keyboard,10,1944.43,0,13.74,4717.68,UPI,Pune,Processing,3.0,0,7.0,36-45,1,Website,SELL0051,East
+ORD000093,CUST04591,2023-03-04,Toys,Phone,6,226.2,0,27.19,2411.59,COD,Mumbai,Delivered,4.0,0,7.0,46-55,0,Website,SELL0048,South
+ORD000094,CUST04364,2023-03-04,Books,Tablet,2,913.87,0,27.02,288.64,Wallet,Bhopal,Shipped,,1,3.0,36-45,0,Website,SELL0039,West
+ORD000095,CUST02551,2023-03-05,Home & Garden,Projector,9,1186.71,5,6.67,3955.48,Credit Card,Nagpur,Delivered,5.0,1,3.0,55+,1,Website,SELL0097,East
+ORD000096,CUST01526,2023-03-06,Sports,Keyboard,3,1433.27,15,4.85,240.8,COD,Mumbai,Delivered,,1,9.0,55+,1,Mobile App,SELL0112,East
+ORD000097,CUST02543,2023-03-06,Toys,Monitor,3,604.54,10,31.34,3138.97,Wallet,Hyderabad,Shipped,2.0,0,1.0,36-45,0,In-Store Kiosk,SELL0190,East
+ORD000098,CUST03711,2023-03-07,Books,Cable,8,1965.96,5,36.77,3985.56,Wallet,Mumbai,Delivered,2.0,0,6.0,55+,0,Mobile App,SELL0029,Central
+ORD000099,CUST02179,2023-03-08,Sports,Projector,2,833.44,30,30.74,2317.16,UPI,Bangalore,Delivered,5.0,0,10.0,18-25,1,Mobile App,SELL0096,East
+ORD000100,CUST02616,2023-03-08,Clothing,Monitor,7,574.3,0,17.65,3407.43,UPI,Surat,Delivered,5.0,1,9.0,55+,0,Mobile App,SELL0125,West
+ORD000101,CUST03864,2023-03-09,Books,Projector,3,1561.24,15,27.79,2864.75,Debit Card,Kolkata,Delivered,5.0,1,6.0,18-25,1,Mobile App,SELL0087,East
+ORD000102,CUST02977,2023-03-10,Beauty,Mouse,9,1178.16,20,45.32,356.22,Debit Card,Ahmedabad,Shipped,1.0,1,14.0,55+,1,Website,SELL0007,North
+ORD000103,CUST03780,2023-03-10,Toys,Laptop,5,1809.56,0,46.19,3468.62,COD,Chennai,Shipped,,1,7.0,36-45,1,Mobile App,SELL0135,East
+ORD000104,CUST02201,2023-03-11,Clothing,Gaming Console,7,217.2,0,11.61,4763.54,Credit Card,Bangalore,Shipped,3.0,1,7.0,26-35,1,In-Store Kiosk,SELL0040,Central
+ORD000105,CUST04031,2023-03-12,Food,Camera,5,114.07,30,4.75,1717.42,UPI,Nagpur,Returned,4.0,1,10.0,55+,1,Website,SELL0148,West
+ORD000106,CUST00887,2023-03-12,Sports,Router,2,1886.58,0,32.66,635.15,COD,Surat,Delivered,1.0,1,5.0,18-25,0,In-Store Kiosk,SELL0056,East
+ORD000107,CUST03481,2023-03-13,Food,Projector,4,894.75,10,8.72,1285.4,COD,Nagpur,Delivered,1.0,0,6.0,36-45,1,Website,SELL0136,Central
+ORD000108,CUST04103,2023-03-14,Beauty,Printer,9,436.23,0,40.05,3179.56,COD,Delhi,Delivered,,1,14.0,26-35,0,Website,SELL0034,Central
+ORD000109,CUST02088,2023-03-14,Clothing,Charger,6,1487.47,15,14.04,4917.24,UPI,Chennai,Delivered,,1,4.0,26-35,0,In-Store Kiosk,SELL0124,Central
+ORD000110,CUST02721,2023-03-15,Electronics,Camera,2,1994.9,0,7.52,4059.6,COD,Pune,Delivered,4.0,1,10.0,55+,1,In-Store Kiosk,SELL0024,Central
+ORD000111,CUST03073,2023-03-16,Food,Charger,1,1997.49,10,40.8,3906.39,UPI,Kanpur,Delivered,,0,11.0,18-25,0,Website,SELL0060,South
+ORD000112,CUST02010,2023-03-16,Beauty,Speaker,1,1926.53,0,10.43,1804.92,COD,Nagpur,Delivered,5.0,0,5.0,55+,0,Mobile App,SELL0153,North
+ORD000113,CUST02407,2023-03-17,Toys,Cable,9,317.41,0,0.44,3052.06,Credit Card,Ahmedabad,Returned,,0,,18-25,1,Mobile App,SELL0054,East
+ORD000114,CUST03377,2023-03-18,Electronics,Watch,10,1701.4,20,41.09,2023.85,Credit Card,Bangalore,Shipped,3.0,1,5.0,26-35,1,Mobile App,SELL0084,South
+ORD000115,CUST03725,2023-03-18,Clothing,Cable,6,252.8,10,4.69,298.36,Debit Card,Kanpur,Processing,3.0,0,7.0,26-35,1,Mobile App,SELL0087,North
+ORD000116,CUST02129,2023-03-19,Toys,Speaker,6,716.86,15,20.99,2459.35,UPI,Jaipur,Delivered,2.0,0,9.0,26-35,1,Mobile App,SELL0051,West
+ORD000117,CUST04423,2023-03-20,Toys,Gaming Console,6,360.76,0,19.79,2741.69,Debit Card,Bhopal,Delivered,1.0,1,11.0,26-35,0,Mobile App,SELL0116,North
+ORD000118,CUST04246,2023-03-20,Books,Phone,4,715.26,0,7.15,4238.71,Debit Card,Hyderabad,Delivered,1.0,1,6.0,46-55,1,Website,SELL0061,North
+ORD000119,CUST03636,2023-03-21,Food,Router,8,499.67,20,1.76,3816.9,Credit Card,Bhopal,Delivered,2.0,0,7.0,18-25,1,Website,SELL0106,North
+ORD000120,CUST00679,2023-03-22,Clothing,Speaker,3,1794.12,10,4.23,2273.51,UPI,Indore,Delivered,3.0,1,11.0,36-45,1,Mobile App,SELL0159,East
+ORD000121,CUST01923,2023-03-22,Books,Mouse,8,1975.54,10,21.38,2490.29,Credit Card,Pune,Delivered,1.0,1,,36-45,0,Website,SELL0151,West
+ORD000122,CUST00150,2023-03-23,Clothing,Speaker,1,351.72,0,47.85,3964.07,COD,Lucknow,Delivered,5.0,0,3.0,36-45,0,Website,SELL0046,Central
+ORD000123,CUST04647,2023-03-24,Sports,Tablet,6,263.69,10,36.25,1448.92,COD,Bhopal,Shipped,,1,2.0,26-35,0,Website,SELL0138,West
+ORD000124,CUST02847,2023-03-24,Home & Garden,Mouse,6,332.93,15,35.74,1802.8,Net Banking,Hyderabad,Cancelled,4.0,1,3.0,55+,1,Website,SELL0153,East
+ORD000125,CUST01665,2023-03-25,Sports,Monitor,2,1133.55,0,33.49,4518.57,Debit Card,Lucknow,Delivered,5.0,0,13.0,26-35,0,Website,SELL0113,South
+ORD000126,CUST01285,2023-03-26,Books,Headphones,9,1764.75,0,38.46,3802.36,Net Banking,Ahmedabad,Delivered,2.0,1,4.0,36-45,1,Mobile App,SELL0146,South
+ORD000127,CUST03414,2023-03-26,Sports,Smart TV,2,1492.27,0,26.47,4716.81,Wallet,Jaipur,Delivered,5.0,0,14.0,36-45,0,Mobile App,SELL0084,West
+ORD000128,CUST00592,2023-03-27,Home & Garden,Headphones,7,847.0,30,49.28,4394.88,Debit Card,Ahmedabad,Delivered,1.0,1,13.0,36-45,1,Mobile App,SELL0014,North
+ORD000129,CUST01822,2023-03-28,Books,Monitor,5,1918.31,20,30.39,3813.52,Debit Card,Chennai,Delivered,4.0,0,6.0,26-35,1,Mobile App,SELL0116,North
+ORD000130,CUST00152,2023-03-28,Toys,Keyboard,8,1079.39,0,31.54,1310.72,UPI,Kanpur,Delivered,3.0,0,2.0,46-55,0,In-Store Kiosk,SELL0182,West
+ORD000131,CUST03732,2023-03-29,Toys,Monitor,5,1570.75,20,1.06,2607.35,UPI,Kolkata,Delivered,3.0,1,4.0,26-35,0,Mobile App,SELL0097,Central
+ORD000132,CUST03852,2023-03-30,Electronics,Mouse,6,1002.48,5,37.73,2086.36,Debit Card,Bhopal,Delivered,5.0,1,9.0,36-45,1,Mobile App,SELL0113,Central
+ORD000133,CUST03718,2023-03-30,Books,Charger,8,1334.15,30,17.79,1954.39,Debit Card,Bhopal,Delivered,2.0,0,7.0,55+,0,Website,SELL0135,West
+ORD000134,CUST04800,2023-03-31,Books,Watch,1,755.89,5,38.69,3896.87,Net Banking,Surat,Delivered,3.0,0,13.0,36-45,1,Website,SELL0168,Central
+ORD000135,CUST02442,2023-04-01,Books,Watch,3,109.84,0,42.37,1940.74,Wallet,Chennai,Processing,3.0,1,5.0,26-35,1,Mobile App,SELL0099,West
+ORD000136,CUST03079,2023-04-01,Electronics,Router,5,1227.17,20,1.11,742.81,Debit Card,Kanpur,Returned,3.0,1,3.0,46-55,1,Website,SELL0064,North
+ORD000137,CUST04324,2023-04-02,Home & Garden,Cable,4,581.26,25,19.24,1746.09,Credit Card,Lucknow,Delivered,2.0,1,10.0,26-35,0,Mobile App,SELL0127,South
+ORD000138,CUST03864,2023-04-03,Beauty,Mouse,1,1103.52,5,45.25,4036.95,Debit Card,Bangalore,Processing,,0,13.0,55+,1,Mobile App,SELL0138,North
+ORD000139,CUST02304,2023-04-03,Books,Speaker,7,1304.57,5,6.4,2541.31,Net Banking,Lucknow,Delivered,3.0,1,8.0,55+,0,Website,SELL0135,South
+ORD000140,CUST04193,2023-04-04,Sports,Phone,1,906.17,15,37.22,68.15,Wallet,Ahmedabad,Delivered,1.0,0,10.0,55+,0,Website,SELL0121,Central
+ORD000141,CUST03858,2023-04-05,Electronics,Mouse,8,318.35,0,16.16,3117.47,Wallet,Surat,Delivered,3.0,0,9.0,55+,0,Website,SELL0200,Central
+ORD000142,CUST04028,2023-04-05,Toys,Headphones,2,1611.33,20,25.47,878.38,Debit Card,Kanpur,Delivered,4.0,1,4.0,46-55,1,Mobile App,SELL0055,Central
+ORD000143,CUST02436,2023-04-06,Sports,Phone,7,349.05,20,45.18,543.08,Debit Card,Chennai,Processing,1.0,1,8.0,46-55,0,Mobile App,SELL0064,East
+ORD000144,CUST01634,2023-04-07,Beauty,Charger,9,263.0,0,31.65,1525.37,Net Banking,Nagpur,Cancelled,1.0,0,14.0,26-35,1,Website,SELL0171,South
+ORD000145,CUST03895,2023-04-07,Home & Garden,Speaker,4,638.13,0,21.68,3852.23,Debit Card,Nagpur,Delivered,3.0,1,14.0,26-35,0,Mobile App,SELL0037,South
+ORD000146,CUST00012,2023-04-08,Beauty,Mouse,3,121.12,0,34.85,255.05,Net Banking,Chennai,Shipped,1.0,0,12.0,55+,1,Website,SELL0163,North
+ORD000147,CUST04389,2023-04-09,Sports,Router,3,709.68,30,11.14,1040.03,Wallet,Kolkata,Delivered,3.0,1,8.0,46-55,1,Mobile App,SELL0050,Central
+ORD000148,CUST03141,2023-04-09,Clothing,Watch,5,1516.39,15,0.61,1017.59,Net Banking,Pune,Shipped,1.0,1,1.0,46-55,0,Website,SELL0135,East
+ORD000149,CUST04145,2023-04-10,Clothing,Watch,3,1581.65,0,30.93,4114.74,COD,Kolkata,Delivered,5.0,1,7.0,26-35,1,Mobile App,SELL0171,North
+ORD000150,CUST04738,2023-04-11,Toys,Tablet,9,916.16,20,43.06,1254.54,COD,Bangalore,Delivered,4.0,0,12.0,26-35,0,In-Store Kiosk,SELL0174,South
+ORD000151,CUST03654,2023-04-11,Books,Phone,9,371.35,20,34.98,2898.85,Debit Card,Bhopal,Shipped,4.0,1,14.0,26-35,0,Website,SELL0121,East
+ORD000152,CUST04438,2023-04-12,Electronics,Smart TV,7,1947.62,25,25.97,635.68,Net Banking,Surat,Delivered,5.0,0,9.0,46-55,1,Website,SELL0044,West
+ORD000153,CUST03197,2023-04-13,Sports,Camera,4,1648.52,5,7.17,3956.1,Debit Card,Bhopal,Delivered,4.0,1,1.0,36-45,0,Website,SELL0068,Central
+ORD000154,CUST00024,2023-04-13,Beauty,Monitor,2,15.46,20,4.25,1307.54,Wallet,Lucknow,Returned,1.0,1,,36-45,0,Mobile App,SELL0143,South
+ORD000155,CUST01887,2023-04-14,Toys,Smart TV,3,1215.99,0,13.99,2308.56,COD,Bangalore,Delivered,5.0,0,,46-55,1,Mobile App,SELL0128,West
+ORD000156,CUST04522,2023-04-15,Toys,Headphones,5,1890.78,0,48.16,1662.95,Credit Card,Jaipur,Delivered,3.0,0,9.0,55+,1,Website,SELL0058,Central
+ORD000157,CUST01136,2023-04-15,Food,Tablet,9,1858.78,10,23.1,3289.01,Debit Card,Jaipur,Delivered,4.0,0,6.0,55+,1,Mobile App,SELL0115,West
+ORD000158,CUST00055,2023-04-16,Clothing,Router,8,801.87,0,40.23,1295.93,Credit Card,Indore,Delivered,5.0,0,12.0,26-35,1,Mobile App,SELL0188,South
+ORD000159,CUST02099,2023-04-17,Beauty,Keyboard,10,1224.65,0,0.65,7.09,UPI,Indore,Delivered,3.0,0,5.0,36-45,1,Mobile App,SELL0012,South
+ORD000160,CUST02658,2023-04-17,Books,Camera,5,1234.58,0,23.63,2629.88,Net Banking,Delhi,Cancelled,5.0,0,,36-45,0,Mobile App,SELL0113,North
+ORD000161,CUST02492,2023-04-18,Food,Printer,6,1461.35,5,12.34,4874.61,Wallet,Jaipur,Delivered,5.0,1,5.0,55+,1,Website,SELL0111,East
+ORD000162,CUST04264,2023-04-19,Clothing,Camera,3,1883.29,5,47.64,4155.16,UPI,Kanpur,Delivered,3.0,0,12.0,46-55,0,Website,SELL0170,South
+ORD000163,CUST00887,2023-04-19,Beauty,Laptop,7,935.58,25,9.93,4964.73,UPI,Surat,Delivered,1.0,0,,55+,0,Website,SELL0052,East
+ORD000164,CUST02081,2023-04-20,Toys,Projector,7,128.14,5,2.49,2226.51,Debit Card,Ahmedabad,Delivered,4.0,1,1.0,26-35,0,Website,SELL0036,North
+ORD000165,CUST02981,2023-04-21,Sports,Gaming Console,1,1445.34,5,8.1,2841.15,Net Banking,Surat,Delivered,,1,1.0,36-45,1,Website,SELL0089,Central
+ORD000166,CUST03420,2023-04-21,Home & Garden,Smart TV,5,1892.53,20,3.15,3989.32,UPI,Mumbai,Delivered,1.0,0,10.0,36-45,0,Mobile App,SELL0064,West
+ORD000167,CUST04204,2023-04-22,Home & Garden,Phone,10,1741.81,20,15.77,1689.78,COD,Ahmedabad,Delivered,5.0,1,,36-45,0,Website,SELL0178,South
+ORD000168,CUST01163,2023-04-23,Books,Monitor,6,53.88,0,49.79,568.92,Net Banking,Indore,Processing,,1,13.0,36-45,0,Mobile App,SELL0153,North
+ORD000169,CUST04420,2023-04-23,Electronics,Smart TV,5,1765.84,15,46.53,848.3,Credit Card,Pune,Processing,1.0,1,11.0,55+,1,Mobile App,SELL0079,South
+ORD000170,CUST04851,2023-04-24,Sports,Charger,2,298.84,20,28.6,4812.83,Wallet,Indore,Delivered,4.0,0,14.0,26-35,1,Mobile App,SELL0072,North
+ORD000171,CUST04953,2023-04-25,Sports,Watch,8,1957.76,20,41.55,3952.4,Debit Card,Bhopal,Delivered,4.0,1,3.0,36-45,1,Mobile App,SELL0003,North
+ORD000172,CUST00221,2023-04-25,Beauty,Keyboard,10,1483.88,0,20.0,1448.04,Debit Card,Kanpur,Delivered,3.0,1,11.0,18-25,1,Website,SELL0018,West
+ORD000173,CUST01846,2023-04-26,Electronics,Watch,10,256.68,15,44.55,3905.12,Net Banking,Bangalore,Delivered,3.0,1,7.0,46-55,1,Website,SELL0112,North
+ORD000174,CUST03162,2023-04-27,Beauty,Charger,10,206.03,15,10.51,3526.22,Debit Card,Nagpur,Delivered,1.0,0,5.0,18-25,1,Website,SELL0132,East
+ORD000175,CUST01451,2023-04-27,Books,Cable,10,559.37,0,20.16,2349.14,Net Banking,Chennai,Delivered,5.0,0,6.0,46-55,1,Website,SELL0160,West
+ORD000176,CUST00174,2023-04-28,Beauty,Router,4,462.76,10,6.03,118.65,Credit Card,Kolkata,Delivered,2.0,1,13.0,46-55,1,Mobile App,SELL0023,East
+ORD000177,CUST01320,2023-04-29,Home & Garden,Camera,8,13.03,0,46.83,3641.28,COD,Delhi,Shipped,2.0,1,8.0,55+,0,Mobile App,SELL0033,North
+ORD000178,CUST00210,2023-04-29,Food,Router,3,1781.24,0,16.91,1455.67,Wallet,Kolkata,Delivered,1.0,1,1.0,36-45,1,Mobile App,SELL0112,South
+ORD000179,CUST03690,2023-04-30,Electronics,Monitor,4,257.31,0,12.3,1361.37,UPI,Lucknow,Delivered,2.0,1,7.0,46-55,0,Mobile App,SELL0018,North
+ORD000180,CUST01352,2023-05-01,Books,Laptop,2,1978.79,0,11.09,2632.7,Credit Card,Kolkata,Returned,1.0,0,11.0,55+,0,Mobile App,SELL0168,Central
+ORD000181,CUST03317,2023-05-01,Beauty,Printer,1,531.52,0,23.7,1333.33,COD,Mumbai,Delivered,5.0,1,11.0,26-35,1,Mobile App,SELL0089,West
+ORD000182,CUST00076,2023-05-02,Clothing,Phone,6,1151.03,25,25.2,3583.48,Credit Card,Chennai,Returned,5.0,0,7.0,26-35,1,Mobile App,SELL0117,Central
+ORD000183,CUST03963,2023-05-03,Books,Laptop,1,1398.28,0,33.64,1463.39,UPI,Delhi,Delivered,1.0,1,,36-45,0,Mobile App,SELL0157,North
+ORD000184,CUST01037,2023-05-03,Beauty,Router,2,605.86,0,40.46,4034.71,UPI,Indore,Delivered,1.0,1,13.0,18-25,0,Mobile App,SELL0101,South
+ORD000185,CUST01197,2023-05-04,Sports,Phone,2,914.66,15,35.13,2189.2,Credit Card,Bhopal,Delivered,3.0,1,1.0,26-35,1,Mobile App,SELL0015,South
+ORD000186,CUST00770,2023-05-05,Clothing,Mouse,7,1547.0,10,24.63,2585.09,Debit Card,Jaipur,Delivered,2.0,0,8.0,36-45,1,Mobile App,SELL0046,West
+ORD000187,CUST00412,2023-05-05,Books,Watch,5,133.92,10,26.78,179.99,Wallet,Nagpur,Processing,1.0,0,13.0,26-35,0,Mobile App,SELL0070,North
+ORD000188,CUST04560,2023-05-06,Beauty,Gaming Console,10,726.59,20,48.77,106.84,COD,Chennai,Delivered,4.0,0,6.0,18-25,1,Mobile App,SELL0033,Central
+ORD000189,CUST04688,2023-05-07,Electronics,Watch,7,1581.02,10,22.35,1062.92,Debit Card,Indore,Delivered,5.0,0,14.0,46-55,0,Website,SELL0104,East
+ORD000190,CUST00208,2023-05-07,Food,Phone,2,667.28,10,16.07,1742.76,Credit Card,Bhopal,Delivered,2.0,1,12.0,26-35,0,Mobile App,SELL0004,Central
+ORD000191,CUST01361,2023-05-08,Home & Garden,Tablet,3,123.24,5,32.28,885.25,Credit Card,Chennai,Delivered,3.0,0,3.0,18-25,0,Mobile App,SELL0030,South
+ORD000192,CUST03060,2023-05-09,Home & Garden,Gaming Console,3,379.56,10,33.64,2514.47,Net Banking,Lucknow,Delivered,3.0,1,5.0,46-55,1,Website,SELL0161,Central
+ORD000193,CUST02832,2023-05-09,Beauty,Gaming Console,5,1355.83,15,46.87,3008.14,COD,Kanpur,Delivered,,0,6.0,26-35,0,Website,SELL0026,Central
+ORD000194,CUST03353,2023-05-10,Clothing,Tablet,1,1935.11,0,17.61,4017.3,Debit Card,Hyderabad,Delivered,1.0,1,7.0,36-45,1,Website,SELL0007,East
+ORD000195,CUST04534,2023-05-11,Sports,Watch,5,461.43,0,25.48,2571.77,COD,Chennai,Delivered,4.0,0,10.0,46-55,0,Mobile App,SELL0090,Central
+ORD000196,CUST04106,2023-05-11,Food,Laptop,4,1037.47,5,31.22,1839.46,Net Banking,Indore,Processing,5.0,1,12.0,26-35,1,In-Store Kiosk,SELL0172,South
+ORD000197,CUST01570,2023-05-12,Food,Printer,2,484.82,0,35.44,4619.38,Credit Card,Kolkata,Delivered,4.0,0,8.0,36-45,1,Mobile App,SELL0049,West
+ORD000198,CUST01837,2023-05-13,Home & Garden,Smart TV,9,1847.0,0,2.0,2181.49,Credit Card,Jaipur,Processing,5.0,1,1.0,46-55,0,In-Store Kiosk,SELL0080,Central
+ORD000199,CUST01688,2023-05-13,Food,Router,4,1800.72,15,45.02,1408.22,Credit Card,Delhi,Delivered,5.0,1,12.0,46-55,0,Website,SELL0153,North
+ORD000200,CUST00909,2023-05-14,Electronics,Speaker,1,785.45,20,8.88,384.44,Debit Card,Lucknow,Shipped,,1,5.0,26-35,0,Mobile App,SELL0183,East
+ORD000201,CUST02841,2023-05-15,Food,Keyboard,8,78.94,0,11.26,926.9,Credit Card,Kanpur,Delivered,5.0,0,5.0,26-35,0,Mobile App,SELL0060,North
+ORD000202,CUST00609,2023-05-15,Home & Garden,Camera,7,1217.02,5,34.72,3457.12,COD,Mumbai,Delivered,2.0,1,,18-25,0,Mobile App,SELL0032,East
+ORD000203,CUST00577,2023-05-16,Books,Router,4,1257.32,0,9.94,996.37,Wallet,Kolkata,Delivered,2.0,1,12.0,18-25,1,Website,SELL0050,South
+ORD000204,CUST00713,2023-05-17,Electronics,Mouse,4,1237.39,10,6.68,1827.76,Wallet,Lucknow,Shipped,4.0,0,13.0,26-35,0,In-Store Kiosk,SELL0163,North
+ORD000205,CUST03723,2023-05-17,Sports,Monitor,2,595.53,0,47.47,142.28,Wallet,Jaipur,Delivered,2.0,1,13.0,55+,0,Website,SELL0068,Central
+ORD000206,CUST02621,2023-05-18,Electronics,Keyboard,4,52.68,25,32.15,1893.53,UPI,Pune,Delivered,4.0,0,3.0,55+,1,In-Store Kiosk,SELL0174,South
+ORD000207,CUST01524,2023-05-19,Beauty,Router,2,69.15,0,47.37,3241.82,UPI,Kolkata,Delivered,1.0,0,3.0,55+,1,Mobile App,SELL0099,West
+ORD000208,CUST02984,2023-05-19,Electronics,Gaming Console,2,1558.95,20,3.16,1100.73,Net Banking,Bhopal,Delivered,1.0,1,7.0,26-35,0,Mobile App,SELL0084,North
+ORD000209,CUST03589,2023-05-20,Sports,Tablet,4,1064.55,0,1.77,24.22,Wallet,Ahmedabad,Delivered,4.0,0,14.0,36-45,1,Website,SELL0146,South
+ORD000210,CUST03943,2023-05-21,Home & Garden,Printer,9,546.01,15,13.97,4167.78,COD,Mumbai,Delivered,3.0,1,5.0,26-35,0,Mobile App,SELL0197,North
+ORD000211,CUST02303,2023-05-21,Food,Monitor,2,1829.49,0,1.92,3606.55,Net Banking,Bangalore,Delivered,5.0,0,5.0,26-35,0,Mobile App,SELL0150,West
+ORD000212,CUST04023,2023-05-22,Home & Garden,Cable,9,1769.23,15,21.93,4963.56,COD,Hyderabad,Cancelled,1.0,0,14.0,18-25,0,Mobile App,SELL0043,South
+ORD000213,CUST01608,2023-05-23,Books,Printer,9,1633.22,25,48.08,681.93,Wallet,Lucknow,Processing,,0,14.0,55+,0,Mobile App,SELL0065,Central
+ORD000214,CUST04214,2023-05-23,Beauty,Watch,1,1245.53,25,17.84,3389.09,Net Banking,Mumbai,Delivered,2.0,1,,46-55,0,Website,SELL0023,East
+ORD000215,CUST00961,2023-05-24,Toys,Headphones,3,1231.88,20,36.61,1290.51,COD,Kanpur,Delivered,,1,9.0,46-55,0,Mobile App,SELL0119,North
+ORD000216,CUST00799,2023-05-25,Sports,Laptop,6,1063.86,5,32.32,2513.9,Net Banking,Indore,Processing,3.0,0,6.0,26-35,0,Mobile App,SELL0195,West
+ORD000217,CUST03800,2023-05-25,Toys,Gaming Console,2,370.49,5,1.61,3734.81,COD,Delhi,Shipped,5.0,0,12.0,55+,0,Mobile App,SELL0063,Central
+ORD000218,CUST03727,2023-05-26,Toys,Printer,5,1456.01,30,11.6,845.79,COD,Pune,Delivered,2.0,1,13.0,26-35,0,Website,SELL0052,West
+ORD000219,CUST04388,2023-05-27,Home & Garden,Router,8,1043.88,20,31.5,2330.03,COD,Hyderabad,Processing,2.0,1,4.0,18-25,0,Mobile App,SELL0186,West
+ORD000220,CUST00364,2023-05-27,Toys,Laptop,1,1094.28,5,4.6,1349.18,Net Banking,Bangalore,Cancelled,3.0,0,10.0,36-45,0,Mobile App,SELL0006,Central
+ORD000221,CUST04516,2023-05-28,Toys,Smart TV,7,1378.41,0,22.87,778.91,Wallet,Ahmedabad,Delivered,5.0,1,8.0,55+,1,Mobile App,SELL0043,North
+ORD000222,CUST04403,2023-05-29,Clothing,Phone,4,747.17,0,33.88,3615.48,Net Banking,Bhopal,Processing,2.0,1,10.0,46-55,1,Mobile App,SELL0079,South
+ORD000223,CUST02796,2023-05-29,Home & Garden,Camera,8,1410.26,0,16.99,1295.78,UPI,Ahmedabad,Delivered,3.0,1,6.0,55+,1,Website,SELL0188,West
+ORD000224,CUST02627,2023-05-30,Electronics,Charger,2,500.1,5,15.61,2649.7,Debit Card,Indore,Processing,1.0,1,9.0,36-45,0,Mobile App,SELL0199,West
+ORD000225,CUST00758,2023-05-31,Toys,Laptop,8,1731.65,20,36.16,3464.58,Debit Card,Lucknow,Delivered,4.0,1,9.0,26-35,1,Website,SELL0179,North
+ORD000226,CUST03208,2023-05-31,Beauty,Router,8,1972.21,0,20.94,2218.01,Wallet,Bhopal,Delivered,1.0,1,6.0,36-45,0,Website,SELL0169,North
+ORD000227,CUST03841,2023-06-01,Electronics,Smart TV,5,1185.71,0,26.6,671.17,Wallet,Nagpur,Delivered,1.0,0,3.0,36-45,0,Mobile App,SELL0006,East
+ORD000228,CUST03099,2023-06-02,Electronics,Keyboard,5,766.31,0,9.99,65.98,UPI,Nagpur,Delivered,2.0,1,2.0,55+,1,Website,SELL0020,South
+ORD000229,CUST01113,2023-06-02,Sports,Tablet,5,580.22,0,39.48,1913.63,Debit Card,Jaipur,Delivered,1.0,0,14.0,26-35,0,Mobile App,SELL0179,North
+ORD000230,CUST02790,2023-06-03,Home & Garden,Charger,8,1785.99,20,29.99,4952.6,Net Banking,Nagpur,Delivered,3.0,0,9.0,26-35,0,Mobile App,SELL0072,East
+ORD000231,CUST00810,2023-06-04,Electronics,Printer,5,656.77,0,48.65,4863.98,UPI,Hyderabad,Delivered,2.0,1,7.0,36-45,1,Website,SELL0033,South
+ORD000232,CUST02617,2023-06-04,Electronics,Gaming Console,10,1629.04,30,37.8,2244.31,Net Banking,Kanpur,Processing,2.0,0,6.0,36-45,1,Mobile App,SELL0108,Central
+ORD000233,CUST04403,2023-06-05,Toys,Camera,2,820.12,0,29.97,2082.68,Credit Card,Lucknow,Delivered,5.0,1,6.0,36-45,1,Website,SELL0185,Central
+ORD000234,CUST04611,2023-06-06,Home & Garden,Camera,5,1760.02,20,30.72,3232.63,Net Banking,Hyderabad,Processing,4.0,1,7.0,18-25,1,Mobile App,SELL0160,North
+ORD000235,CUST03597,2023-06-06,Toys,Phone,6,866.51,0,16.65,4163.74,Debit Card,Mumbai,Delivered,1.0,1,7.0,55+,1,Mobile App,SELL0084,Central
+ORD000236,CUST01742,2023-06-07,Home & Garden,Laptop,6,1157.98,10,22.27,2893.26,UPI,Hyderabad,Delivered,,1,,36-45,1,Mobile App,SELL0039,South
+ORD000237,CUST01727,2023-06-08,Food,Router,5,249.68,15,33.66,3621.94,Net Banking,Ahmedabad,Processing,4.0,1,7.0,36-45,1,Mobile App,SELL0154,North
+ORD000238,CUST03894,2023-06-08,Toys,Headphones,10,1951.23,0,25.75,124.81,UPI,Delhi,Delivered,,1,11.0,36-45,0,Mobile App,SELL0019,North
+ORD000239,CUST00070,2023-06-09,Food,Watch,5,1128.15,10,47.71,4393.18,Wallet,Jaipur,Delivered,3.0,0,7.0,55+,1,Mobile App,SELL0023,South
+ORD000240,CUST01810,2023-06-10,Beauty,Monitor,2,1240.62,15,27.67,2696.74,Credit Card,Nagpur,Delivered,5.0,1,11.0,46-55,0,Website,SELL0147,East
+ORD000241,CUST02774,2023-06-10,Electronics,Phone,4,255.28,0,0.64,2464.63,UPI,Kolkata,Delivered,,0,1.0,36-45,1,Website,SELL0037,Central
+ORD000242,CUST00230,2023-06-11,Home & Garden,Printer,1,1382.64,5,6.31,1084.29,COD,Indore,Processing,,0,11.0,36-45,1,In-Store Kiosk,SELL0005,South
+ORD000243,CUST04018,2023-06-12,Electronics,Mouse,3,855.78,5,2.31,683.67,UPI,Pune,Delivered,1.0,1,4.0,26-35,0,In-Store Kiosk,SELL0199,West
+ORD000244,CUST01891,2023-06-12,Sports,Monitor,5,849.21,15,45.16,1843.82,Credit Card,Kolkata,Delivered,5.0,1,7.0,18-25,0,Website,SELL0104,North
+ORD000245,CUST04170,2023-06-13,Home & Garden,Headphones,1,949.2,0,15.76,4600.67,Net Banking,Nagpur,Cancelled,4.0,1,9.0,55+,0,Website,SELL0157,Central
+ORD000246,CUST00755,2023-06-14,Sports,Charger,5,1074.18,10,41.81,2798.13,Wallet,Lucknow,Delivered,5.0,0,8.0,55+,0,Mobile App,SELL0142,East
+ORD000247,CUST00187,2023-06-14,Food,Router,3,1607.96,30,22.28,2062.8,Wallet,Lucknow,Delivered,,0,1.0,26-35,0,Website,SELL0165,East
+ORD000248,CUST02203,2023-06-15,Clothing,Mouse,10,687.15,15,46.02,700.21,Wallet,Chennai,Shipped,2.0,1,8.0,26-35,1,Mobile App,SELL0134,East
+ORD000249,CUST04813,2023-06-16,Toys,Router,2,1762.06,0,24.11,314.13,UPI,Jaipur,Delivered,,1,2.0,55+,1,Website,SELL0143,West
+ORD000250,CUST00411,2023-06-16,Toys,Speaker,5,226.06,0,43.01,3033.51,Wallet,Nagpur,Shipped,2.0,1,4.0,26-35,0,Website,SELL0103,West
+ORD000251,CUST00636,2023-06-17,Home & Garden,Tablet,2,1063.47,0,33.59,4791.17,Credit Card,Bangalore,Delivered,,0,7.0,46-55,1,In-Store Kiosk,SELL0033,South
+ORD000252,CUST03928,2023-06-18,Home & Garden,Tablet,5,1357.76,5,13.31,2242.36,Credit Card,Mumbai,Delivered,1.0,1,,55+,1,Mobile App,SELL0157,Central
+ORD000253,CUST00567,2023-06-18,Home & Garden,Printer,5,1940.92,0,28.83,1188.79,COD,Bhopal,Delivered,2.0,0,8.0,55+,0,Mobile App,SELL0097,North
+ORD000254,CUST02955,2023-06-19,Beauty,Phone,5,799.36,5,13.4,1886.93,Credit Card,Surat,Processing,,0,6.0,46-55,1,Mobile App,SELL0119,Central
+ORD000255,CUST00209,2023-06-20,Toys,Monitor,5,1358.56,25,9.99,2553.53,Net Banking,Chennai,Shipped,2.0,0,2.0,18-25,0,Website,SELL0061,West
+ORD000256,CUST00190,2023-06-20,Electronics,Headphones,5,1573.7,20,15.96,3769.49,Net Banking,Jaipur,Delivered,3.0,1,1.0,55+,1,Website,SELL0165,North
+ORD000257,CUST01942,2023-06-21,Food,Router,3,1665.98,0,14.83,2270.23,Debit Card,Delhi,Delivered,3.0,0,7.0,18-25,0,Mobile App,SELL0152,East
+ORD000258,CUST03228,2023-06-22,Electronics,Camera,9,1834.34,5,24.83,4633.33,Credit Card,Kolkata,Delivered,2.0,1,14.0,26-35,0,Website,SELL0117,South
+ORD000259,CUST02976,2023-06-22,Clothing,Router,7,695.03,10,31.85,3205.66,Debit Card,Bangalore,Delivered,5.0,0,12.0,18-25,1,Mobile App,SELL0037,North
+ORD000260,CUST04774,2023-06-23,Sports,Headphones,7,1685.72,0,48.37,607.34,Wallet,Indore,Delivered,5.0,1,6.0,18-25,0,Website,SELL0087,Central
+ORD000261,CUST00273,2023-06-24,Electronics,Charger,5,1914.04,0,23.46,575.84,Debit Card,Hyderabad,Delivered,,0,,18-25,0,Website,SELL0052,Central
+ORD000262,CUST00317,2023-06-24,Beauty,Headphones,8,941.4,30,38.05,2759.74,Net Banking,Ahmedabad,Delivered,5.0,0,5.0,36-45,0,Website,SELL0120,East
+ORD000263,CUST03876,2023-06-25,Clothing,Monitor,7,1384.02,15,24.55,4015.0,Wallet,Chennai,Delivered,3.0,0,7.0,18-25,1,Website,SELL0014,North
+ORD000264,CUST01784,2023-06-26,Books,Charger,2,649.36,20,21.69,2668.83,Wallet,Ahmedabad,Delivered,4.0,0,9.0,26-35,0,Website,SELL0086,South
+ORD000265,CUST01064,2023-06-26,Sports,Tablet,5,516.34,15,20.62,4020.49,Debit Card,Jaipur,Delivered,2.0,0,8.0,18-25,1,Mobile App,SELL0197,West
+ORD000266,CUST04474,2023-06-27,Food,Monitor,9,559.54,10,43.78,406.32,Wallet,Delhi,Shipped,2.0,1,,46-55,1,Website,SELL0042,East
+ORD000267,CUST01585,2023-06-28,Clothing,Router,9,107.59,15,7.31,1647.89,UPI,Bhopal,Delivered,5.0,0,9.0,46-55,0,Mobile App,SELL0099,East
+ORD000268,CUST00168,2023-06-28,Toys,Camera,10,1158.95,5,14.51,245.14,Wallet,Pune,Shipped,2.0,1,14.0,26-35,1,Mobile App,SELL0095,Central
+ORD000269,CUST00084,2023-06-29,Beauty,Laptop,8,1724.25,0,36.04,1783.65,Debit Card,Ahmedabad,Delivered,3.0,0,6.0,55+,1,Mobile App,SELL0174,North
+ORD000270,CUST04593,2023-06-30,Sports,Camera,10,577.78,0,14.79,2846.05,Credit Card,Bangalore,Processing,4.0,0,1.0,18-25,0,Mobile App,SELL0190,Central
+ORD000271,CUST00798,2023-06-30,Food,Keyboard,3,68.29,10,0.11,4628.23,Net Banking,Mumbai,Delivered,2.0,1,12.0,18-25,0,Mobile App,SELL0167,Central
+ORD000272,CUST04944,2023-07-01,Beauty,Tablet,10,569.84,0,10.84,2303.46,Wallet,Jaipur,Shipped,4.0,0,12.0,36-45,0,Website,SELL0118,South
+ORD000273,CUST00992,2023-07-02,Toys,Printer,10,1545.18,20,1.47,1880.44,COD,Mumbai,Delivered,,1,9.0,55+,1,Mobile App,SELL0085,Central
+ORD000274,CUST01950,2023-07-02,Sports,Cable,7,898.01,5,14.62,3399.21,Credit Card,Jaipur,Delivered,3.0,0,1.0,26-35,1,Mobile App,SELL0146,South
+ORD000275,CUST00315,2023-07-03,Home & Garden,Speaker,7,1535.4,30,16.34,3592.2,COD,Bhopal,Delivered,5.0,0,13.0,55+,0,Website,SELL0011,West
+ORD000276,CUST02325,2023-07-04,Books,Speaker,7,437.96,0,47.66,859.78,COD,Chennai,Delivered,4.0,1,3.0,26-35,0,Website,SELL0132,West
+ORD000277,CUST04811,2023-07-04,Books,Printer,2,1285.69,5,40.4,3504.38,Wallet,Kolkata,Shipped,5.0,0,14.0,46-55,0,Mobile App,SELL0063,Central
+ORD000278,CUST04941,2023-07-05,Electronics,Cable,1,1463.36,0,6.12,2700.58,COD,Kanpur,Delivered,1.0,0,3.0,26-35,0,Website,SELL0093,North
+ORD000279,CUST01865,2023-07-06,Books,Cable,3,1619.35,0,6.14,2548.3,UPI,Pune,Delivered,5.0,0,1.0,36-45,0,Mobile App,SELL0130,East
+ORD000280,CUST00300,2023-07-06,Toys,Keyboard,3,1369.7,5,49.85,4906.82,Debit Card,Kolkata,Delivered,3.0,0,5.0,26-35,1,Website,SELL0082,Central
+ORD000281,CUST03458,2023-07-07,Books,Laptop,1,1822.01,0,33.58,3857.0,Wallet,Indore,Delivered,4.0,1,,26-35,1,Website,SELL0060,North
+ORD000282,CUST01591,2023-07-08,Home & Garden,Phone,8,256.4,20,31.27,4075.22,UPI,Lucknow,Delivered,,0,13.0,36-45,1,Mobile App,SELL0040,North
+ORD000283,CUST04344,2023-07-08,Home & Garden,Router,1,1103.55,0,29.42,4107.51,Net Banking,Jaipur,Delivered,4.0,1,1.0,26-35,0,In-Store Kiosk,SELL0081,North
+ORD000284,CUST00318,2023-07-09,Toys,Printer,4,902.34,25,7.49,3239.72,Net Banking,Kanpur,Delivered,5.0,0,4.0,36-45,0,Website,SELL0004,East
+ORD000285,CUST00484,2023-07-10,Sports,Phone,2,1998.57,0,13.22,133.14,Wallet,Lucknow,Delivered,3.0,1,10.0,36-45,1,In-Store Kiosk,SELL0173,East
+ORD000286,CUST03732,2023-07-10,Books,Laptop,7,1100.95,5,21.62,1845.52,UPI,Nagpur,Delivered,,0,8.0,36-45,1,Mobile App,SELL0173,West
+ORD000287,CUST03252,2023-07-11,Food,Headphones,10,1372.09,30,22.32,3835.51,Wallet,Surat,Returned,3.0,1,12.0,18-25,0,Mobile App,SELL0136,East
+ORD000288,CUST03257,2023-07-12,Electronics,Keyboard,6,1838.47,15,48.54,902.97,COD,Bhopal,Cancelled,2.0,1,7.0,36-45,1,Website,SELL0056,Central
+ORD000289,CUST02734,2023-07-12,Clothing,Headphones,6,289.27,0,2.19,4787.22,Debit Card,Surat,Delivered,3.0,1,9.0,46-55,0,Mobile App,SELL0154,North
+ORD000290,CUST04318,2023-07-13,Clothing,Mouse,6,681.88,0,0.74,40.45,Credit Card,Mumbai,Delivered,1.0,1,4.0,18-25,1,Website,SELL0119,West
+ORD000291,CUST03369,2023-07-14,Electronics,Smart TV,3,650.01,0,45.74,2794.29,Net Banking,Bangalore,Cancelled,4.0,1,6.0,26-35,1,Mobile App,SELL0053,East
+ORD000292,CUST00952,2023-07-14,Clothing,Cable,4,238.25,10,43.88,427.1,UPI,Ahmedabad,Processing,5.0,0,7.0,18-25,0,Mobile App,SELL0093,East
+ORD000293,CUST04014,2023-07-15,Beauty,Watch,4,1122.2,10,14.48,3803.35,Credit Card,Surat,Shipped,4.0,1,9.0,26-35,0,Mobile App,SELL0017,East
+ORD000294,CUST02726,2023-07-16,Beauty,Speaker,9,616.58,20,16.07,3086.08,COD,Bhopal,Delivered,5.0,1,12.0,55+,1,Website,SELL0022,West
+ORD000295,CUST00905,2023-07-16,Electronics,Gaming Console,4,334.51,0,29.6,2027.42,Wallet,Nagpur,Shipped,3.0,1,5.0,18-25,1,Mobile App,SELL0076,West
+ORD000296,CUST03566,2023-07-17,Electronics,Printer,3,48.68,0,10.1,511.36,Credit Card,Lucknow,Shipped,4.0,1,10.0,26-35,1,Mobile App,SELL0008,Central
+ORD000297,CUST03386,2023-07-18,Food,Tablet,6,54.98,0,43.77,2261.4,Wallet,Mumbai,Processing,3.0,0,3.0,18-25,1,Website,SELL0174,South
+ORD000298,CUST01410,2023-07-18,Toys,Speaker,8,784.57,30,13.48,1751.47,Net Banking,Jaipur,Shipped,3.0,1,6.0,55+,0,Website,SELL0189,North
+ORD000299,CUST00929,2023-07-19,Toys,Phone,4,1223.81,30,3.0,943.64,Wallet,Surat,Delivered,4.0,0,2.0,36-45,1,Mobile App,SELL0066,North
+ORD000300,CUST04449,2023-07-20,Beauty,Projector,1,429.07,0,26.64,922.56,Net Banking,Indore,Cancelled,4.0,0,4.0,18-25,0,Mobile App,SELL0073,West
+ORD000301,CUST04285,2023-07-20,Home & Garden,Cable,5,1820.71,5,36.67,4238.15,UPI,Lucknow,Cancelled,1.0,1,12.0,26-35,1,Website,SELL0154,North
+ORD000302,CUST00990,2023-07-21,Books,Camera,9,424.32,20,47.81,1646.99,Wallet,Jaipur,Delivered,4.0,1,8.0,46-55,0,Mobile App,SELL0063,West
+ORD000303,CUST03446,2023-07-22,Books,Router,9,544.49,5,31.24,501.45,Net Banking,Bangalore,Returned,3.0,0,13.0,46-55,0,Website,SELL0158,North
+ORD000304,CUST00592,2023-07-22,Sports,Speaker,8,611.81,30,5.09,794.96,Wallet,Nagpur,Delivered,1.0,1,4.0,46-55,1,Mobile App,SELL0017,Central
+ORD000305,CUST04559,2023-07-23,Electronics,Printer,6,319.71,20,33.12,3307.0,Debit Card,Pune,Delivered,1.0,1,7.0,36-45,0,Website,SELL0107,Central
+ORD000306,CUST01405,2023-07-24,Food,Laptop,10,1998.19,15,4.63,1851.34,COD,Indore,Delivered,1.0,1,3.0,36-45,1,Mobile App,SELL0001,South
+ORD000307,CUST00859,2023-07-24,Food,Monitor,2,1435.33,10,9.71,286.46,Net Banking,Bangalore,Delivered,5.0,1,5.0,55+,0,Mobile App,SELL0146,Central
+ORD000308,CUST03989,2023-07-25,Electronics,Mouse,2,604.28,0,14.83,279.08,Net Banking,Bhopal,Delivered,2.0,1,1.0,26-35,0,Mobile App,SELL0145,Central
+ORD000309,CUST04802,2023-07-26,Sports,Phone,8,1946.5,0,2.77,302.0,COD,Kolkata,Returned,3.0,0,3.0,55+,0,Mobile App,SELL0093,Central
+ORD000310,CUST03571,2023-07-26,Books,Keyboard,9,1271.35,20,18.29,3687.79,Net Banking,Bangalore,Delivered,,0,1.0,55+,0,Website,SELL0178,West
+ORD000311,CUST04484,2023-07-27,Home & Garden,Router,3,1539.84,0,38.35,4250.75,COD,Indore,Cancelled,4.0,1,10.0,55+,0,Mobile App,SELL0133,South
+ORD000312,CUST04456,2023-07-28,Home & Garden,Cable,4,690.68,0,2.69,4226.78,UPI,Bhopal,Delivered,3.0,0,,46-55,0,Mobile App,SELL0051,South
+ORD000313,CUST01471,2023-07-28,Sports,Phone,3,437.37,20,24.79,2730.38,Debit Card,Nagpur,Delivered,5.0,0,1.0,26-35,1,Website,SELL0119,South
+ORD000314,CUST03084,2023-07-29,Food,Router,3,902.36,0,11.32,1964.18,COD,Bhopal,Delivered,2.0,1,6.0,46-55,0,Mobile App,SELL0090,Central
+ORD000315,CUST03448,2023-07-30,Beauty,Router,1,836.35,15,28.32,1589.87,Net Banking,Jaipur,Delivered,5.0,0,13.0,36-45,1,Website,SELL0140,West
+ORD000316,CUST04591,2023-07-30,Food,Monitor,3,1969.17,10,24.62,3728.14,UPI,Surat,Returned,,0,1.0,55+,1,Website,SELL0125,North
+ORD000317,CUST02703,2023-07-31,Books,Printer,7,294.51,0,8.3,4040.41,Credit Card,Mumbai,Delivered,4.0,1,10.0,55+,1,Website,SELL0156,North
+ORD000318,CUST02717,2023-08-01,Toys,Charger,8,274.67,0,42.63,4694.94,Debit Card,Hyderabad,Delivered,4.0,0,9.0,18-25,1,Website,SELL0034,Central
+ORD000319,CUST04086,2023-08-01,Home & Garden,Gaming Console,9,1244.26,0,25.02,4924.19,UPI,Kolkata,Processing,5.0,1,12.0,46-55,1,Mobile App,SELL0005,East
+ORD000320,CUST04592,2023-08-02,Home & Garden,Router,10,1126.02,0,49.28,3526.33,UPI,Kolkata,Delivered,5.0,1,7.0,46-55,0,In-Store Kiosk,SELL0075,East
+ORD000321,CUST00323,2023-08-03,Electronics,Gaming Console,3,1094.72,0,49.23,965.81,COD,Hyderabad,Delivered,5.0,0,2.0,46-55,1,Mobile App,SELL0015,Central
+ORD000322,CUST04351,2023-08-03,Food,Projector,7,827.0,20,12.55,4811.05,Debit Card,Lucknow,Delivered,3.0,1,9.0,55+,1,Website,SELL0098,East
+ORD000323,CUST01957,2023-08-04,Electronics,Watch,4,725.44,25,44.15,617.79,Credit Card,Lucknow,Shipped,4.0,1,14.0,18-25,1,Mobile App,SELL0072,East
+ORD000324,CUST02368,2023-08-05,Home & Garden,Phone,3,178.83,0,35.98,1399.83,COD,Surat,Delivered,2.0,1,8.0,55+,1,Mobile App,SELL0129,Central
+ORD000325,CUST02159,2023-08-05,Food,Charger,7,1586.0,10,21.61,4162.44,UPI,Pune,Delivered,3.0,1,1.0,18-25,1,Website,SELL0136,South
+ORD000326,CUST00033,2023-08-06,Beauty,Mouse,4,895.72,5,40.76,2578.63,Debit Card,Indore,Shipped,,1,2.0,18-25,0,In-Store Kiosk,SELL0197,Central
+ORD000327,CUST02866,2023-08-07,Electronics,Gaming Console,7,1795.07,0,21.02,1225.25,COD,Ahmedabad,Delivered,3.0,0,7.0,46-55,1,Mobile App,SELL0003,North
+ORD000328,CUST04929,2023-08-07,Food,Smart TV,3,993.72,30,24.62,2621.61,UPI,Hyderabad,Shipped,3.0,0,11.0,55+,0,Mobile App,SELL0100,Central
+ORD000329,CUST03584,2023-08-08,Sports,Laptop,5,1807.56,0,18.59,3853.44,UPI,Indore,Cancelled,5.0,1,3.0,55+,1,Website,SELL0160,North
+ORD000330,CUST02486,2023-08-09,Clothing,Camera,1,1848.4,30,42.18,1372.24,Debit Card,Kolkata,Delivered,1.0,1,6.0,18-25,0,Website,SELL0052,East
+ORD000331,CUST00115,2023-08-09,Books,Speaker,1,1120.62,0,45.34,2507.41,Wallet,Nagpur,Delivered,,0,14.0,55+,1,Website,SELL0173,South
+ORD000332,CUST03705,2023-08-10,Toys,Charger,8,1595.91,10,7.56,1439.48,Net Banking,Bhopal,Delivered,5.0,1,14.0,46-55,1,Mobile App,SELL0131,West
+ORD000333,CUST03343,2023-08-11,Sports,Keyboard,9,212.33,25,29.49,1992.3,Debit Card,Kanpur,Delivered,4.0,1,13.0,36-45,0,Mobile App,SELL0099,East
+ORD000334,CUST02262,2023-08-11,Home & Garden,Camera,2,238.87,10,5.85,1063.96,Debit Card,Kanpur,Delivered,3.0,0,9.0,46-55,0,Mobile App,SELL0023,West
+ORD000335,CUST01827,2023-08-12,Books,Monitor,7,1402.08,15,44.27,3539.17,UPI,Bangalore,Cancelled,3.0,0,13.0,26-35,1,Mobile App,SELL0114,East
+ORD000336,CUST01811,2023-08-13,Toys,Printer,7,106.47,0,11.01,1574.17,Net Banking,Kolkata,Delivered,4.0,1,7.0,36-45,1,Website,SELL0002,South
+ORD000337,CUST01076,2023-08-13,Books,Smart TV,3,1424.31,10,1.8,2536.32,Debit Card,Ahmedabad,Delivered,4.0,0,,26-35,0,Mobile App,SELL0063,West
+ORD000338,CUST01792,2023-08-14,Sports,Router,5,465.16,0,37.28,4023.72,COD,Kolkata,Delivered,3.0,0,6.0,26-35,1,Mobile App,SELL0076,South
+ORD000339,CUST00808,2023-08-15,Electronics,Tablet,3,473.36,5,33.31,712.26,UPI,Bangalore,Processing,3.0,1,13.0,46-55,1,Mobile App,SELL0018,South
+ORD000340,CUST01777,2023-08-15,Clothing,Gaming Console,1,723.67,0,20.55,3309.76,COD,Indore,Delivered,1.0,1,8.0,26-35,0,Website,SELL0014,Central
+ORD000341,CUST04676,2023-08-16,Toys,Mouse,9,1849.27,10,30.96,1656.18,Wallet,Mumbai,Delivered,2.0,1,14.0,46-55,0,Mobile App,SELL0178,Central
+ORD000342,CUST02898,2023-08-17,Toys,Cable,4,1422.71,5,38.56,2442.65,Debit Card,Chennai,Cancelled,,1,7.0,26-35,0,Mobile App,SELL0096,East
+ORD000343,CUST02907,2023-08-17,Food,Cable,6,1504.24,0,8.51,3581.72,Net Banking,Nagpur,Delivered,3.0,1,13.0,55+,1,Website,SELL0019,Central
+ORD000344,CUST04039,2023-08-18,Electronics,Speaker,1,1567.2,15,15.23,4618.09,Net Banking,Pune,Delivered,,1,8.0,18-25,1,Website,SELL0066,South
+ORD000345,CUST04386,2023-08-19,Sports,Speaker,1,1664.08,0,24.28,4303.78,COD,Kolkata,Processing,5.0,1,12.0,26-35,1,Website,SELL0120,North
+ORD000346,CUST02846,2023-08-19,Clothing,Mouse,7,344.82,10,31.66,4500.97,UPI,Kanpur,Delivered,3.0,0,14.0,26-35,0,Mobile App,SELL0179,Central
+ORD000347,CUST01808,2023-08-20,Beauty,Tablet,5,1883.99,20,30.68,252.84,COD,Surat,Delivered,3.0,0,2.0,36-45,0,Mobile App,SELL0090,Central
+ORD000348,CUST02630,2023-08-21,Clothing,Printer,7,797.03,0,24.68,2107.8,Net Banking,Nagpur,Delivered,4.0,0,6.0,36-45,0,Website,SELL0036,East
+ORD000349,CUST04342,2023-08-21,Electronics,Watch,9,1125.64,10,33.07,4007.52,Debit Card,Hyderabad,Shipped,5.0,0,1.0,18-25,1,Mobile App,SELL0097,Central
+ORD000350,CUST01534,2023-08-22,Toys,Router,9,1621.48,20,1.05,4058.38,Wallet,Chennai,Delivered,2.0,1,4.0,36-45,1,In-Store Kiosk,SELL0139,Central
+ORD000351,CUST04905,2023-08-23,Clothing,Laptop,1,1705.9,10,16.18,2101.52,Credit Card,Pune,Processing,1.0,0,1.0,36-45,1,In-Store Kiosk,SELL0026,South
+ORD000352,CUST02315,2023-08-23,Toys,Tablet,3,1014.68,30,28.62,1430.64,Wallet,Kanpur,Shipped,4.0,0,6.0,36-45,0,Mobile App,SELL0127,North
+ORD000353,CUST03643,2023-08-24,Beauty,Camera,3,1091.71,0,15.31,2746.09,UPI,Jaipur,Delivered,1.0,0,5.0,36-45,1,In-Store Kiosk,SELL0069,West
+ORD000354,CUST00899,2023-08-25,Sports,Watch,2,822.15,0,47.08,3734.09,Wallet,Nagpur,Delivered,4.0,0,1.0,46-55,1,In-Store Kiosk,SELL0200,Central
+ORD000355,CUST04925,2023-08-25,Clothing,Phone,5,103.8,15,48.18,3459.42,Debit Card,Kanpur,Shipped,3.0,0,6.0,46-55,0,Website,SELL0088,East
+ORD000356,CUST03724,2023-08-26,Books,Cable,5,1296.98,5,18.57,1256.88,UPI,Kanpur,Delivered,5.0,0,7.0,18-25,0,Mobile App,SELL0114,East
+ORD000357,CUST04476,2023-08-27,Clothing,Phone,10,1356.03,0,11.58,6.39,Credit Card,Kanpur,Delivered,2.0,0,1.0,46-55,1,Mobile App,SELL0142,South
+ORD000358,CUST03916,2023-08-27,Home & Garden,Phone,9,948.62,0,11.21,4431.78,COD,Pune,Delivered,4.0,1,13.0,55+,0,Mobile App,SELL0162,South
+ORD000359,CUST02153,2023-08-28,Clothing,Charger,1,100.98,15,22.2,2229.6,COD,Kanpur,Shipped,1.0,0,5.0,36-45,1,Website,SELL0012,West
+ORD000360,CUST01193,2023-08-29,Clothing,Cable,6,1133.88,15,47.88,4163.2,UPI,Surat,Delivered,1.0,1,3.0,26-35,0,Mobile App,SELL0071,South
+ORD000361,CUST04003,2023-08-29,Books,Cable,3,210.64,10,11.82,4357.41,Net Banking,Indore,Delivered,3.0,0,1.0,36-45,1,Website,SELL0003,East
+ORD000362,CUST02836,2023-08-30,Electronics,Projector,10,910.79,20,16.55,4694.29,Credit Card,Hyderabad,Shipped,4.0,0,2.0,18-25,0,Website,SELL0015,West
+ORD000363,CUST01215,2023-08-31,Food,Printer,3,1597.86,5,27.96,1767.27,Net Banking,Mumbai,Returned,1.0,1,10.0,36-45,0,Website,SELL0096,South
+ORD000364,CUST01424,2023-08-31,Toys,Keyboard,1,457.91,20,28.49,3300.39,Net Banking,Pune,Delivered,4.0,1,1.0,18-25,0,Mobile App,SELL0081,South
+ORD000365,CUST00947,2023-09-01,Books,Charger,10,1838.18,0,33.13,2983.57,Wallet,Kolkata,Delivered,4.0,0,2.0,26-35,0,Website,SELL0145,West
+ORD000366,CUST04887,2023-09-02,Clothing,Headphones,8,1418.02,30,36.4,824.87,Net Banking,Surat,Delivered,1.0,1,10.0,55+,1,Mobile App,SELL0135,West
+ORD000367,CUST03518,2023-09-02,Toys,Printer,7,518.68,20,39.57,2187.59,Debit Card,Lucknow,Delivered,5.0,1,5.0,55+,1,Website,SELL0185,West
+ORD000368,CUST01495,2023-09-03,Electronics,Projector,7,463.37,20,24.56,2155.8,COD,Pune,Delivered,4.0,1,11.0,36-45,0,Mobile App,SELL0051,East
+ORD000369,CUST01082,2023-09-04,Toys,Mouse,8,153.9,20,3.56,958.29,COD,Surat,Processing,2.0,1,10.0,55+,0,Mobile App,SELL0110,North
+ORD000370,CUST04321,2023-09-04,Clothing,Speaker,3,1748.4,20,33.81,1877.78,Wallet,Pune,Delivered,2.0,0,10.0,26-35,0,Website,SELL0028,West
+ORD000371,CUST03608,2023-09-05,Electronics,Charger,7,130.73,0,29.63,2184.17,Net Banking,Bhopal,Processing,2.0,1,1.0,26-35,1,Mobile App,SELL0086,North
+ORD000372,CUST03502,2023-09-06,Food,Projector,3,1254.48,25,10.7,3999.8,Wallet,Jaipur,Delivered,4.0,1,9.0,55+,1,Website,SELL0021,South
+ORD000373,CUST00327,2023-09-06,Sports,Smart TV,10,1504.15,0,42.69,4291.96,Net Banking,Kolkata,Delivered,4.0,0,13.0,46-55,1,Mobile App,SELL0183,West
+ORD000374,CUST04829,2023-09-07,Books,Phone,4,513.94,20,37.08,3586.98,COD,Delhi,Delivered,2.0,1,12.0,36-45,1,Mobile App,SELL0106,South
+ORD000375,CUST02197,2023-09-08,Electronics,Charger,10,763.92,10,21.1,4026.55,Wallet,Delhi,Delivered,3.0,0,14.0,26-35,1,Mobile App,SELL0015,Central
+ORD000376,CUST03598,2023-09-08,Beauty,Headphones,4,591.21,0,48.44,496.87,Net Banking,Kanpur,Returned,1.0,0,12.0,46-55,1,Mobile App,SELL0067,West
+ORD000377,CUST00904,2023-09-09,Sports,Phone,2,1604.45,0,33.84,2787.29,Net Banking,Bhopal,Returned,3.0,1,,55+,0,Website,SELL0155,Central
+ORD000378,CUST03046,2023-09-10,Electronics,Laptop,4,1990.85,0,46.5,1297.78,Credit Card,Nagpur,Processing,2.0,1,5.0,26-35,0,Mobile App,SELL0153,East
+ORD000379,CUST00461,2023-09-10,Beauty,Phone,6,1941.34,15,36.43,2096.12,Debit Card,Lucknow,Delivered,,1,4.0,46-55,0,Website,SELL0150,East
+ORD000380,CUST02303,2023-09-11,Sports,Monitor,8,143.66,15,35.53,3516.72,Credit Card,Ahmedabad,Shipped,2.0,1,9.0,26-35,0,Website,SELL0128,North
+ORD000381,CUST01178,2023-09-12,Toys,Projector,1,1357.25,5,10.9,4734.87,Debit Card,Nagpur,Cancelled,1.0,0,3.0,26-35,0,Website,SELL0197,Central
+ORD000382,CUST02356,2023-09-12,Beauty,Projector,1,1172.01,5,20.96,1787.4,Credit Card,Bhopal,Delivered,5.0,0,10.0,26-35,1,Website,SELL0188,West
+ORD000383,CUST04348,2023-09-13,Sports,Printer,3,1860.42,0,31.8,2889.53,Net Banking,Chennai,Delivered,3.0,0,14.0,55+,0,Mobile App,SELL0081,Central
+ORD000384,CUST00007,2023-09-14,Electronics,Charger,8,1157.99,0,41.41,539.95,Debit Card,Kanpur,Delivered,,1,5.0,26-35,1,Mobile App,SELL0197,South
+ORD000385,CUST02305,2023-09-14,Clothing,Charger,3,917.63,10,45.56,3414.31,Debit Card,Delhi,Delivered,5.0,0,5.0,36-45,1,Website,SELL0137,South
+ORD000386,CUST04985,2023-09-15,Books,Laptop,5,900.61,10,4.09,1194.12,Wallet,Ahmedabad,Delivered,1.0,0,9.0,55+,0,Website,SELL0001,South
+ORD000387,CUST04864,2023-09-16,Food,Printer,10,1707.96,0,35.74,2347.8,UPI,Delhi,Delivered,2.0,0,9.0,36-45,0,Website,SELL0150,East
+ORD000388,CUST02839,2023-09-16,Books,Laptop,2,1345.85,15,13.3,1632.41,COD,Surat,Delivered,2.0,0,10.0,18-25,1,Mobile App,SELL0048,Central
+ORD000389,CUST03324,2023-09-17,Sports,Printer,2,152.75,30,35.5,258.02,Credit Card,Hyderabad,Delivered,4.0,1,6.0,55+,1,Website,SELL0172,South
+ORD000390,CUST02935,2023-09-18,Food,Router,7,1867.38,20,15.87,3705.04,Net Banking,Delhi,Delivered,5.0,1,1.0,18-25,1,Website,SELL0049,South
+ORD000391,CUST02284,2023-09-18,Electronics,Camera,8,1359.08,0,28.55,3098.79,Wallet,Nagpur,Cancelled,4.0,0,4.0,55+,0,Mobile App,SELL0096,North
+ORD000392,CUST00903,2023-09-19,Beauty,Phone,4,314.32,20,26.34,4088.97,Credit Card,Kanpur,Delivered,,0,2.0,26-35,0,Website,SELL0176,East
+ORD000393,CUST04042,2023-09-20,Food,Projector,2,941.34,0,43.6,4731.84,Debit Card,Hyderabad,Delivered,2.0,1,3.0,46-55,1,Mobile App,SELL0157,North
+ORD000394,CUST02160,2023-09-20,Toys,Headphones,2,505.07,0,32.69,2057.25,Net Banking,Bangalore,Shipped,3.0,1,11.0,46-55,1,Mobile App,SELL0027,North
+ORD000395,CUST04367,2023-09-21,Sports,Mouse,10,1184.8,0,12.15,3782.66,Net Banking,Kolkata,Delivered,4.0,0,2.0,26-35,0,Mobile App,SELL0196,South
+ORD000396,CUST01096,2023-09-22,Home & Garden,Cable,6,1114.7,5,31.45,1552.72,COD,Nagpur,Shipped,3.0,1,2.0,26-35,0,Website,SELL0084,East
+ORD000397,CUST00980,2023-09-22,Clothing,Monitor,4,1940.67,20,32.04,2167.11,Debit Card,Nagpur,Processing,,1,3.0,18-25,0,Website,SELL0107,East
+ORD000398,CUST01095,2023-09-23,Sports,Camera,4,115.05,20,18.22,4180.37,Debit Card,Ahmedabad,Delivered,2.0,0,8.0,26-35,0,Mobile App,SELL0011,Central
+ORD000399,CUST03258,2023-09-24,Food,Speaker,2,903.38,0,13.14,4493.04,Credit Card,Jaipur,Delivered,3.0,0,1.0,18-25,0,Website,SELL0006,Central
+ORD000400,CUST02738,2023-09-24,Sports,Speaker,3,369.86,5,45.48,1882.87,Debit Card,Lucknow,Delivered,2.0,0,1.0,18-25,0,Website,SELL0096,East
+ORD000401,CUST03285,2023-09-25,Beauty,Monitor,8,48.92,0,7.7,4014.87,Net Banking,Hyderabad,Delivered,,1,13.0,36-45,0,Website,SELL0072,Central
+ORD000402,CUST01205,2023-09-26,Books,Keyboard,5,1557.44,30,7.09,3830.62,COD,Jaipur,Delivered,1.0,0,12.0,55+,0,In-Store Kiosk,SELL0008,Central
+ORD000403,CUST01798,2023-09-26,Beauty,Laptop,10,1516.51,0,29.46,936.51,Net Banking,Mumbai,Shipped,,0,4.0,26-35,1,Website,SELL0018,North
+ORD000404,CUST03333,2023-09-27,Home & Garden,Watch,6,1868.74,0,15.42,3129.91,Credit Card,Pune,Delivered,4.0,1,8.0,46-55,0,Mobile App,SELL0145,East
+ORD000405,CUST02516,2023-09-28,Books,Keyboard,7,1178.67,30,25.21,2483.09,Wallet,Surat,Processing,,0,11.0,26-35,1,Mobile App,SELL0118,South
+ORD000406,CUST01884,2023-09-28,Clothing,Camera,8,515.31,0,13.39,318.83,Net Banking,Kanpur,Delivered,,0,3.0,46-55,1,Mobile App,SELL0104,North
+ORD000407,CUST01616,2023-09-29,Beauty,Phone,2,729.15,0,18.4,2738.12,Credit Card,Indore,Delivered,3.0,1,,36-45,1,Mobile App,SELL0114,West
+ORD000408,CUST01884,2023-09-30,Electronics,Keyboard,5,1211.12,30,20.41,4897.73,Wallet,Kolkata,Delivered,3.0,1,13.0,46-55,1,Mobile App,SELL0200,East
+ORD000409,CUST01391,2023-09-30,Food,Smart TV,9,1259.44,0,28.1,3900.6,Net Banking,Chennai,Delivered,5.0,1,1.0,46-55,0,Mobile App,SELL0093,West
+ORD000410,CUST03512,2023-10-01,Food,Headphones,6,89.97,0,3.94,1008.5,Credit Card,Chennai,Delivered,5.0,1,2.0,55+,0,Mobile App,SELL0198,South
+ORD000411,CUST00816,2023-10-02,Food,Cable,3,1821.87,5,21.61,1109.26,UPI,Chennai,Shipped,3.0,1,12.0,36-45,0,Mobile App,SELL0060,Central
+ORD000412,CUST03354,2023-10-02,Food,Gaming Console,6,1852.49,0,34.37,1598.5,Debit Card,Indore,Returned,3.0,1,13.0,26-35,0,Mobile App,SELL0157,East
+ORD000413,CUST00383,2023-10-03,Toys,Gaming Console,7,1598.03,20,35.46,94.87,Credit Card,Mumbai,Delivered,1.0,1,10.0,18-25,1,Website,SELL0126,South
+ORD000414,CUST02019,2023-10-04,Toys,Watch,10,503.36,15,13.55,372.75,Net Banking,Kolkata,Cancelled,2.0,1,14.0,46-55,1,Website,SELL0059,South
+ORD000415,CUST02498,2023-10-04,Home & Garden,Tablet,8,699.42,5,27.17,3597.65,Credit Card,Lucknow,Delivered,1.0,1,11.0,26-35,1,Website,SELL0024,South
+ORD000416,CUST04651,2023-10-05,Clothing,Router,2,1406.34,0,19.21,2735.52,Credit Card,Delhi,Returned,3.0,1,10.0,18-25,0,Mobile App,SELL0023,North
+ORD000417,CUST03309,2023-10-06,Electronics,Watch,6,614.95,0,1.84,3481.8,UPI,Hyderabad,Delivered,2.0,1,1.0,36-45,1,Website,SELL0131,Central
+ORD000418,CUST01642,2023-10-06,Electronics,Camera,7,778.55,20,21.59,3578.49,COD,Bangalore,Delivered,2.0,0,,55+,0,Mobile App,SELL0032,South
+ORD000419,CUST01846,2023-10-07,Beauty,Router,8,1338.16,0,33.68,372.97,UPI,Kolkata,Shipped,5.0,0,5.0,26-35,1,Mobile App,SELL0125,West
+ORD000420,CUST03592,2023-10-08,Clothing,Camera,1,72.86,0,47.27,4729.64,Credit Card,Hyderabad,Delivered,4.0,0,12.0,36-45,0,Mobile App,SELL0139,East
+ORD000421,CUST04338,2023-10-08,Clothing,Speaker,3,279.99,0,5.61,4846.93,COD,Surat,Returned,,1,1.0,36-45,0,Website,SELL0148,North
+ORD000422,CUST03969,2023-10-09,Toys,Speaker,3,76.81,15,21.37,175.53,Debit Card,Indore,Cancelled,4.0,0,,46-55,1,Mobile App,SELL0027,Central
+ORD000423,CUST04502,2023-10-10,Clothing,Projector,2,535.07,20,47.06,343.64,Debit Card,Kanpur,Delivered,2.0,0,,55+,0,In-Store Kiosk,SELL0025,Central
+ORD000424,CUST01092,2023-10-10,Clothing,Router,8,964.77,0,23.47,4099.34,Net Banking,Lucknow,Delivered,2.0,1,2.0,36-45,1,Mobile App,SELL0057,West
+ORD000425,CUST02463,2023-10-11,Home & Garden,Keyboard,5,1688.96,0,44.69,3041.98,Debit Card,Bhopal,Delivered,5.0,1,6.0,36-45,1,Mobile App,SELL0098,South
+ORD000426,CUST02372,2023-10-12,Clothing,Laptop,4,361.93,20,34.11,4958.62,COD,Delhi,Delivered,3.0,1,2.0,36-45,0,Website,SELL0019,North
+ORD000427,CUST02097,2023-10-12,Electronics,Camera,6,716.95,0,43.3,1238.31,COD,Lucknow,Delivered,,0,7.0,46-55,0,Mobile App,SELL0099,West
+ORD000428,CUST00105,2023-10-13,Beauty,Tablet,1,23.81,0,37.91,3978.45,UPI,Jaipur,Delivered,3.0,0,2.0,46-55,1,Website,SELL0011,West
+ORD000429,CUST01114,2023-10-14,Sports,Printer,3,929.57,0,3.61,2625.75,COD,Kanpur,Delivered,1.0,1,4.0,26-35,0,Website,SELL0029,Central
+ORD000430,CUST01651,2023-10-14,Home & Garden,Printer,6,55.53,0,38.13,2778.14,Credit Card,Lucknow,Delivered,,0,8.0,26-35,1,Website,SELL0078,North
+ORD000431,CUST02054,2023-10-15,Clothing,Laptop,3,647.99,0,6.39,1048.4,COD,Bhopal,Processing,1.0,1,7.0,46-55,1,Website,SELL0115,Central
+ORD000432,CUST01350,2023-10-16,Beauty,Keyboard,5,1662.53,20,37.43,3035.67,UPI,Nagpur,Delivered,2.0,0,1.0,36-45,1,Mobile App,SELL0083,North
+ORD000433,CUST01774,2023-10-16,Sports,Tablet,4,1872.41,0,20.95,2056.32,Wallet,Delhi,Delivered,4.0,0,12.0,46-55,0,Mobile App,SELL0142,North
+ORD000434,CUST03858,2023-10-17,Sports,Projector,10,737.65,0,34.24,1107.0,Credit Card,Jaipur,Delivered,3.0,0,7.0,18-25,1,Mobile App,SELL0039,West
+ORD000435,CUST01634,2023-10-18,Food,Router,9,569.65,10,3.03,4186.12,Debit Card,Indore,Delivered,5.0,1,5.0,55+,0,Website,SELL0020,West
+ORD000436,CUST01104,2023-10-18,Sports,Tablet,10,1518.28,20,5.7,1074.94,Debit Card,Hyderabad,Shipped,5.0,0,5.0,55+,0,Website,SELL0185,South
+ORD000437,CUST02333,2023-10-19,Food,Cable,4,1397.45,10,5.33,1505.06,Net Banking,Bhopal,Delivered,4.0,0,2.0,55+,0,Mobile App,SELL0088,West
+ORD000438,CUST00128,2023-10-20,Toys,Printer,3,759.32,0,18.78,438.84,UPI,Kanpur,Shipped,2.0,1,13.0,18-25,0,Mobile App,SELL0122,South
+ORD000439,CUST01137,2023-10-20,Electronics,Phone,6,1811.19,0,8.48,3382.75,Credit Card,Kanpur,Delivered,1.0,0,11.0,36-45,0,Website,SELL0144,North
+ORD000440,CUST00119,2023-10-21,Clothing,Charger,9,910.1,5,0.4,1422.94,Wallet,Chennai,Delivered,4.0,1,2.0,46-55,0,Website,SELL0059,South
+ORD000441,CUST00340,2023-10-22,Beauty,Speaker,9,1872.09,10,43.96,4789.63,UPI,Kolkata,Returned,2.0,1,13.0,26-35,0,Mobile App,SELL0013,Central
+ORD000442,CUST03819,2023-10-22,Clothing,Tablet,6,1768.25,0,37.58,3708.91,Wallet,Kanpur,Delivered,,1,10.0,55+,0,Mobile App,SELL0167,East
+ORD000443,CUST00122,2023-10-23,Beauty,Smart TV,6,1897.1,10,28.42,4506.38,UPI,Hyderabad,Delivered,3.0,1,10.0,18-25,0,Mobile App,SELL0137,West
+ORD000444,CUST00717,2023-10-24,Home & Garden,Laptop,6,222.07,15,36.21,986.11,COD,Chennai,Delivered,1.0,0,2.0,46-55,1,Mobile App,SELL0111,West
+ORD000445,CUST00885,2023-10-24,Books,Speaker,5,537.77,0,15.12,3200.69,Wallet,Lucknow,Delivered,2.0,1,4.0,36-45,1,Mobile App,SELL0174,West
+ORD000446,CUST03221,2023-10-25,Sports,Projector,2,745.32,20,35.28,4399.81,Wallet,Ahmedabad,Shipped,5.0,0,8.0,36-45,0,Website,SELL0090,West
+ORD000447,CUST01655,2023-10-26,Books,Watch,4,1488.11,10,26.0,4807.77,COD,Mumbai,Delivered,2.0,0,10.0,46-55,1,Mobile App,SELL0010,North
+ORD000448,CUST01008,2023-10-26,Home & Garden,Camera,9,590.91,0,4.44,3252.82,Net Banking,Delhi,Delivered,4.0,0,5.0,36-45,1,Website,SELL0151,North
+ORD000449,CUST03670,2023-10-27,Toys,Router,9,418.0,10,33.23,4738.27,COD,Lucknow,Processing,,1,12.0,18-25,1,Mobile App,SELL0161,North
+ORD000450,CUST01109,2023-10-28,Sports,Camera,7,690.77,15,49.68,742.4,Wallet,Indore,Shipped,3.0,0,8.0,36-45,0,Website,SELL0074,North
+ORD000451,CUST04689,2023-10-28,Food,Speaker,10,625.35,15,12.8,207.62,UPI,Lucknow,Shipped,4.0,0,12.0,55+,0,Mobile App,SELL0040,West
+ORD000452,CUST04033,2023-10-29,Home & Garden,Headphones,10,1630.16,5,0.23,2328.11,Wallet,Ahmedabad,Delivered,3.0,0,2.0,18-25,1,Mobile App,SELL0161,East
+ORD000453,CUST04418,2023-10-30,Toys,Phone,6,1979.68,10,37.54,1589.98,Credit Card,Kanpur,Delivered,4.0,1,5.0,18-25,0,Mobile App,SELL0012,South
+ORD000454,CUST03411,2023-10-30,Sports,Keyboard,8,611.2,5,13.94,4630.36,Net Banking,Indore,Delivered,2.0,1,8.0,46-55,0,Website,SELL0001,Central
+ORD000455,CUST01384,2023-10-31,Toys,Tablet,3,108.39,0,20.26,85.34,Wallet,Hyderabad,Delivered,5.0,0,11.0,18-25,1,Website,SELL0167,East
+ORD000456,CUST03273,2023-11-01,Food,Speaker,5,1444.82,0,0.39,1588.66,Debit Card,Nagpur,Shipped,2.0,1,8.0,55+,1,Website,SELL0050,West
+ORD000457,CUST03777,2023-11-01,Food,Speaker,5,963.68,25,3.22,1751.99,COD,Indore,Cancelled,3.0,0,5.0,36-45,1,Mobile App,SELL0158,West
+ORD000458,CUST04644,2023-11-02,Electronics,Speaker,9,870.38,0,35.45,3566.32,COD,Bangalore,Shipped,5.0,1,,46-55,1,Website,SELL0107,North
+ORD000459,CUST00257,2023-11-03,Clothing,Gaming Console,5,705.64,10,48.2,14.29,Credit Card,Lucknow,Delivered,4.0,0,1.0,46-55,0,In-Store Kiosk,SELL0187,South
+ORD000460,CUST04352,2023-11-03,Food,Projector,4,943.41,0,29.53,4250.27,Wallet,Mumbai,Delivered,3.0,1,1.0,55+,1,Mobile App,SELL0168,South
+ORD000461,CUST04058,2023-11-04,Toys,Monitor,4,276.59,20,42.12,4672.57,Net Banking,Jaipur,Delivered,1.0,1,5.0,55+,1,Mobile App,SELL0097,West
+ORD000462,CUST04235,2023-11-05,Sports,Headphones,9,1226.25,5,10.29,2423.15,UPI,Indore,Delivered,2.0,1,2.0,55+,0,Mobile App,SELL0149,South
+ORD000463,CUST01003,2023-11-05,Beauty,Headphones,7,1859.99,0,3.38,545.34,Debit Card,Indore,Delivered,3.0,0,5.0,46-55,1,Website,SELL0033,East
+ORD000464,CUST00681,2023-11-06,Electronics,Router,2,1838.77,0,17.35,258.28,UPI,Jaipur,Shipped,5.0,1,14.0,26-35,1,Website,SELL0187,Central
+ORD000465,CUST03306,2023-11-07,Sports,Projector,1,1477.55,0,10.41,1295.89,UPI,Jaipur,Shipped,5.0,0,6.0,26-35,0,Website,SELL0184,South
+ORD000466,CUST00830,2023-11-07,Electronics,Smart TV,4,781.88,5,30.83,677.21,UPI,Nagpur,Returned,3.0,0,7.0,26-35,1,Mobile App,SELL0053,Central
+ORD000467,CUST00930,2023-11-08,Beauty,Smart TV,9,1842.82,10,47.82,2517.22,UPI,Mumbai,Delivered,,0,6.0,55+,0,Website,SELL0105,South
+ORD000468,CUST04911,2023-11-09,Sports,Laptop,9,1321.22,20,11.56,2053.83,COD,Surat,Delivered,1.0,0,10.0,36-45,1,Mobile App,SELL0185,North
+ORD000469,CUST04550,2023-11-09,Beauty,Projector,2,1009.95,0,45.09,962.85,Debit Card,Kolkata,Delivered,3.0,1,6.0,18-25,1,Mobile App,SELL0066,North
+ORD000470,CUST02883,2023-11-10,Beauty,Router,1,571.74,15,26.86,4166.7,Wallet,Bhopal,Cancelled,1.0,1,5.0,18-25,0,Mobile App,SELL0023,East
+ORD000471,CUST03240,2023-11-11,Food,Tablet,3,1511.72,0,5.1,3003.49,UPI,Delhi,Delivered,1.0,0,1.0,36-45,0,In-Store Kiosk,SELL0197,North
+ORD000472,CUST02747,2023-11-11,Sports,Camera,9,1595.73,20,26.8,3133.35,UPI,Ahmedabad,Delivered,5.0,1,,18-25,0,Website,SELL0040,South
+ORD000473,CUST03715,2023-11-12,Toys,Gaming Console,5,1120.15,0,23.35,3418.29,UPI,Bhopal,Delivered,3.0,0,12.0,46-55,0,Mobile App,SELL0032,South
+ORD000474,CUST02529,2023-11-13,Home & Garden,Monitor,1,575.7,20,37.45,4324.73,Credit Card,Surat,Shipped,2.0,1,6.0,18-25,1,Mobile App,SELL0094,South
+ORD000475,CUST03054,2023-11-13,Beauty,Cable,6,781.28,0,37.43,3376.27,Net Banking,Bhopal,Delivered,3.0,0,5.0,46-55,1,Website,SELL0093,North
+ORD000476,CUST03679,2023-11-14,Books,Phone,7,1248.67,10,32.05,669.25,Credit Card,Indore,Delivered,2.0,1,12.0,36-45,0,Website,SELL0043,East
+ORD000477,CUST03971,2023-11-15,Home & Garden,Charger,1,449.87,5,33.39,1918.58,COD,Hyderabad,Shipped,5.0,1,14.0,46-55,1,Mobile App,SELL0177,South
+ORD000478,CUST02974,2023-11-15,Sports,Watch,7,944.55,10,30.36,2610.42,COD,Surat,Delivered,,1,7.0,36-45,1,In-Store Kiosk,SELL0007,West
+ORD000479,CUST03706,2023-11-16,Food,Printer,9,89.15,30,11.84,930.17,Debit Card,Nagpur,Delivered,4.0,1,3.0,26-35,0,Website,SELL0185,East
+ORD000480,CUST00750,2023-11-17,Food,Phone,1,1611.42,10,46.28,4701.49,Debit Card,Indore,Delivered,3.0,0,10.0,18-25,1,Mobile App,SELL0128,East
+ORD000481,CUST00254,2023-11-17,Books,Gaming Console,1,766.53,0,10.59,1265.33,Debit Card,Chennai,Delivered,3.0,1,9.0,36-45,0,Website,SELL0053,West
+ORD000482,CUST00513,2023-11-18,Home & Garden,Headphones,9,893.17,5,29.76,3861.48,COD,Chennai,Delivered,3.0,0,5.0,18-25,0,Website,SELL0082,East
+ORD000483,CUST03722,2023-11-19,Electronics,Keyboard,5,1771.24,0,38.69,4758.27,Wallet,Pune,Returned,4.0,1,12.0,55+,0,Mobile App,SELL0017,North
+ORD000484,CUST01515,2023-11-19,Beauty,Laptop,1,795.54,0,4.18,1377.68,Credit Card,Nagpur,Delivered,5.0,0,,46-55,0,Mobile App,SELL0185,West
+ORD000485,CUST03948,2023-11-20,Electronics,Phone,2,952.95,0,22.51,2281.01,Credit Card,Indore,Delivered,2.0,1,1.0,55+,1,Website,SELL0142,Central
+ORD000486,CUST04351,2023-11-21,Electronics,Smart TV,9,594.39,10,1.49,1247.72,Credit Card,Ahmedabad,Delivered,2.0,0,4.0,36-45,0,Mobile App,SELL0197,East
+ORD000487,CUST03509,2023-11-21,Beauty,Cable,9,1615.07,25,11.31,4113.36,UPI,Surat,Delivered,4.0,1,11.0,55+,1,Website,SELL0009,West
+ORD000488,CUST02012,2023-11-22,Home & Garden,Smart TV,10,875.27,0,31.81,3977.24,Debit Card,Mumbai,Delivered,1.0,1,8.0,46-55,0,Website,SELL0186,West
+ORD000489,CUST00534,2023-11-23,Clothing,Projector,7,966.42,20,45.67,4467.17,UPI,Bhopal,Shipped,,1,10.0,55+,1,Website,SELL0167,North
+ORD000490,CUST04362,2023-11-23,Toys,Cable,7,987.26,20,15.21,318.18,Debit Card,Lucknow,Processing,5.0,0,7.0,26-35,1,Website,SELL0104,North
+ORD000491,CUST01683,2023-11-24,Toys,Charger,9,1354.61,10,41.74,3701.55,Net Banking,Kolkata,Delivered,4.0,1,2.0,46-55,0,Website,SELL0124,West
+ORD000492,CUST02864,2023-11-25,Toys,Watch,10,1085.11,10,26.24,2900.34,Wallet,Lucknow,Processing,2.0,1,10.0,36-45,0,Mobile App,SELL0062,South
+ORD000493,CUST03621,2023-11-25,Toys,Cable,1,872.37,15,38.04,2120.3,Wallet,Kanpur,Delivered,3.0,1,10.0,46-55,0,Mobile App,SELL0102,South
+ORD000494,CUST04648,2023-11-26,Sports,Gaming Console,7,1311.33,0,40.51,4447.95,Debit Card,Kanpur,Delivered,5.0,1,,26-35,1,Website,SELL0192,East
+ORD000495,CUST02600,2023-11-27,Food,Headphones,8,1276.81,30,31.8,4337.42,Wallet,Lucknow,Delivered,3.0,0,2.0,26-35,1,Mobile App,SELL0163,East
+ORD000496,CUST04423,2023-11-27,Sports,Gaming Console,10,1422.4,0,21.14,3500.18,COD,Lucknow,Delivered,5.0,1,,55+,0,Website,SELL0075,Central
+ORD000497,CUST03627,2023-11-28,Beauty,Speaker,1,941.88,0,29.2,864.49,Wallet,Lucknow,Delivered,5.0,0,5.0,36-45,1,Mobile App,SELL0111,Central
+ORD000498,CUST01880,2023-11-29,Clothing,Printer,8,1961.28,15,34.56,1301.81,Wallet,Delhi,Delivered,4.0,1,12.0,55+,0,Website,SELL0076,North
+ORD000499,CUST01745,2023-11-29,Sports,Keyboard,6,1153.01,0,43.06,784.62,Credit Card,Hyderabad,Shipped,4.0,1,2.0,26-35,1,Website,SELL0070,East
