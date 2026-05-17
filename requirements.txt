@@ -1,6 +1,6 @@
 streamlit==1.45.1
 pandas==2.2.3
-numpy==1.26.4
+numpy==1.25.2
 scikit-learn==1.5.2
 matplotlib==3.9.2
 seaborn==0.12.2
@@ -10,9 +10,9 @@ python-dotenv
 scipy==1.12.0
 groq==0.4.2
 python-dotenv==1.0.1
-ydata-profiling==4.6.4
 missingno==0.5.2
 fpdf2==2.7.9
 openpyxl==3.1.2
 xlrd==2.0.1
 otenv
+numpy==1.25.2
